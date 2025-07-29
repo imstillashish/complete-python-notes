@@ -22,10 +22,10 @@
 - Comments: `#` for single line, `'''` or `"""` for multi-line
 
 **Bullet Points to Remember:**
-• Python emphasizes code readability and simplicity
-• Indentation is mandatory and defines code structure
-• Python is interpreted, not compiled
-• Case sensitivity matters (Name ≠ name)
+- Python emphasizes code readability and simplicity
+- Indentation is mandatory and defines code structure
+- Python is interpreted, not compiled
+- Case sensitivity matters (Name ≠ name)
 
 ---
 ## 2. Variables ❎
@@ -52,10 +52,10 @@ is_student = True     # Boolean
 - Constants in UPPERCASE
 
 **Bullet Points to Remember:**
-• Variables are containers that store data values
-• No need to declare variable type (dynamically typed)
-• Variable names should be descriptive and meaningful
-• Use snake_case convention for readability
+- Variables are containers that store data values
+- No need to declare variable type (dynamically typed)
+- Variable names should be descriptive and meaningful
+- Use snake_case convention for readability
 
 ---
 ## 3. Type Casting 💱
@@ -88,10 +88,10 @@ bool("Hi") # True
 - Empty strings/0/None convert to False
 
 **Bullet Points to Remember:**
-• Type casting allows conversion between data types
-• int() truncates decimal part, doesn't round
-• Always handle potential ValueError exceptions
-• Empty values generally convert to False in boolean context
+- Type casting allows conversion between data types
+- int() truncates decimal part, doesn't round
+- Always handle potential ValueError exceptions
+- Empty values generally convert to False in boolean context
 
 ---
 ## 4. User Input ⌨️
@@ -108,10 +108,10 @@ age = int(input("Enter age: "))    # Convert to integer
 - Can include prompt message
 
 **Bullet Points to Remember:**
-• input() function always returns string type
-• Convert input to appropriate type for calculations
-• Always validate user input when possible
-• Include clear prompts for better user experience
+- input() function always returns string type
+- Convert input to appropriate type for calculations
+- Always validate user input when possible
+- Include clear prompts for better user experience
 
 ---
 ## 5. ⭐ Madlibs Game 📖
@@ -134,10 +134,10 @@ print(story)
 - Creative output generation
 
 **Bullet Points to Remember:**
-• Collect multiple inputs before creating output
-• Use f-strings for clean string formatting
-• Make prompts specific and clear
-• Test with different inputs for variety
+- Collect multiple inputs before creating output
+- Use f-strings for clean string formatting
+- Make prompts specific and clear
+- Test with different inputs for variety
 
 ---
 ## 6. Arithmetic & Math 📐
@@ -172,10 +172,10 @@ round(3.7)         # Round (built-in)
 4. Addition/Subtraction (left to right)
 
 **Bullet Points to Remember:**
-• / always returns float, // returns integer division
-• % operator gives remainder, useful for even/odd checks
-• Import math module for advanced mathematical functions
-• PEMDAS rules apply, use parentheses for clarity
+- / always returns float, // returns integer division
+- % operator gives remainder, useful for even/odd checks
+- Import math module for advanced mathematical functions
+- PEMDAS rules apply, use parentheses for clarity
 
 ---
 ## 7. If Statements 🤔
@@ -211,10 +211,10 @@ else:
 ```
 
 **Bullet Points to Remember:**
-• Use == for equality comparison, = for assignment
-• elif allows multiple conditions to be checked
-• else is optional and catches all remaining cases
-• Indentation is crucial for code block definition
+- Use == for equality comparison, = for assignment
+- elif allows multiple conditions to be checked
+- else is optional and catches all remaining cases
+- Indentation is crucial for code block definition
 
 ---
 ## 8. ⭐ Calculator Program 🧮
@@ -242,10 +242,10 @@ print(f"Result: {result}")
 ```
 
 **Bullet Points to Remember:**
-• Always check for division by zero
-• Use float() for decimal number support
-• Validate operator input before calculation
-• Provide clear error messages for invalid inputs
+- Always check for division by zero
+- Use float() for decimal number support
+- Validate operator input before calculation
+- Provide clear error messages for invalid inputs
 
 ---
 ## 9. ⭐ Weight Conversion Program 🏋️
@@ -265,10 +265,10 @@ else:
 ```
 
 **Bullet Points to Remember:**
-• Use .upper() to handle case variations in input
-• Format output to 2 decimal places for readability
-• Remember conversion factors (1 kg = 2.205 lbs)
-• Handle invalid unit selections gracefully
+- Use .upper() to handle case variations in input
+- Format output to 2 decimal places for readability
+- Remember conversion factors (1 kg = 2.205 lbs)
+- Handle invalid unit selections gracefully
 
 ---
 ## 10. ⭐ Temperature Conversion Program 🌡️
@@ -286,10 +286,10 @@ elif unit == "F":
 ```
 
 **Bullet Points to Remember:**
-• Remember temperature conversion formulas
-• F = (C × 9/5) + 32, C = (F - 32) × 5/9
-• Use degree symbols for professional output
-• Format to 1 decimal place for temperature precision
+- Remember temperature conversion formulas
+- F = (C × 9/5) + 32, C = (F - 32) × 5/9
+- Use degree symbols for professional output
+- Format to 1 decimal place for temperature precision
 
 ---
 ## 11. Logical Operators 🌦️
@@ -324,10 +324,10 @@ if age >= 18 and has_license:
 ```
 
 **Bullet Points to Remember:**
-• 'and' requires all conditions to be True
-• 'or' requires at least one condition to be True
-• 'not' flips the boolean value
-• Use parentheses to group complex logical expressions
+- 'and' requires all conditions to be True
+- 'or' requires at least one condition to be True
+- 'not' flips the boolean value
+- Use parentheses to group complex logical expressions
 
 ## 12. Conditional Expressions ❓
 **Ternary Operator:**
@@ -350,10 +350,10 @@ grade = "A" if score >= 90 else "B" if score >= 80 else "C"
 ```
 
 **Bullet Points to Remember:**
-• Ternary operator is shorthand for simple if-else
-• Keep ternary expressions simple for readability
-• Nested ternaries can become hard to read
-• Use regular if-else for complex logic
+- Ternary operator is shorthand for simple if-else
+- Keep ternary expressions simple for readability
+- Nested ternaries can become hard to read
+- Use regular if-else for complex logic
 
 ## 13. String Methods 〰️
 **Common Methods:**
@@ -377,10 +377,10 @@ len(text)             # 11 (built-in function)
 ```
 
 **Bullet Points to Remember:**
-• String methods don't modify original string (immutable)
-• Use strip() to remove unwanted whitespace
-• find() returns -1 if substring not found
-• isdigit() and isalpha() useful for input validation
+- String methods don't modify original string (immutable)
+- Use strip() to remove unwanted whitespace
+- find() returns -1 if substring not found
+- isdigit() and isalpha() useful for input validation
 
 ## 14. String Indexing ✂️
 **Concepts:**
@@ -403,10 +403,10 @@ text[::-1]   # "nohtyP" (reverse)
 ```
 
 **Bullet Points to Remember:**
-• String indexing starts at 0
-• Negative indices count from the end
-• Slicing end index is exclusive
-• [::-1] is common way to reverse strings
+- String indexing starts at 0
+- Negative indices count from the end
+- Slicing end index is exclusive
+- [::-1] is common way to reverse strings
 
 ## 15. Format Specifiers 💬
 **Methods:**
@@ -434,10 +434,10 @@ print(f"Padded: {5:03d}")           # 005
 ```
 
 **Bullet Points to Remember:**
-• f-strings are the modern, preferred method
-• :.2f formats to 2 decimal places
-• Format specifiers control number display
-• f-strings are more readable and faster
+- f-strings are the modern, preferred method
+- :.2f formats to 2 decimal places
+- Format specifiers control number display
+- f-strings are more readable and faster
 
 ## 16. While Loops ♾️
 **Structure:**
@@ -465,10 +465,10 @@ while True:
 - `else`: Executes if loop completes normally
 
 **Bullet Points to Remember:**
-• Always ensure the condition will eventually become False
-• Use break to exit loops based on user input
-• continue skips current iteration, doesn't exit loop
-• Avoid infinite loops unless intentional
+- Always ensure the condition will eventually become False
+- Use break to exit loops based on user input
+- continue skips current iteration, doesn't exit loop
+- Avoid infinite loops unless intentional
 
 ## 17. ⭐ Compound Interest Calculator 💵
 **Implementation:**
@@ -486,10 +486,10 @@ print(f"Interest earned: ${interest:.2f}")
 ```
 
 **Bullet Points to Remember:**
-• Formula: A = P(1 + r/n)^(nt)
-• Convert percentage to decimal by dividing by 100
-• Use ** for exponentiation
-• Display results with 2 decimal places for currency
+- Formula: A = P(1 + r/n)^(nt)
+- Convert percentage to decimal by dividing by 100
+- Use ** for exponentiation
+- Display results with 2 decimal places for currency
 
 ## 18. For Loops 🔁
 **Syntax:**
@@ -519,10 +519,10 @@ for index, fruit in enumerate(fruits):
 ```
 
 **Bullet Points to Remember:**
-• for loops iterate over sequences automatically
-• range(stop) starts at 0, range(start, stop, step)
-• enumerate() provides both index and value
-• More pythonic than while loops for known iterations
+- for loops iterate over sequences automatically
+- range(stop) starts at 0, range(start, stop, step)
+- enumerate() provides both index and value
+- More pythonic than while loops for known iterations
 
 ## 19. ⭐ Countdown Timer Program ⌛
 **Implementation:**
@@ -541,10 +541,10 @@ print("Time's up!")
 ```
 
 **Bullet Points to Remember:**
-• Use time.sleep(1) to pause for one second
-• divmod() returns quotient and remainder
-• end="\r" overwrites the same line
-• :02d formats numbers with leading zeros
+- Use time.sleep(1) to pause for one second
+- divmod() returns quotient and remainder
+- end="\r" overwrites the same line
+- :02d formats numbers with leading zeros
 
 ## 20. Nested Loops ➿
 **Concept:**
@@ -564,10 +564,10 @@ for i in range(rows):
 ```
 
 **Bullet Points to Remember:**
-• Inner loop completes fully for each outer loop iteration
-• Useful for 2D data structures and patterns
-• Can impact performance with large datasets
-• Break and continue affect the immediate containing loop
+- Inner loop completes fully for each outer loop iteration
+- Useful for 2D data structures and patterns
+- Can impact performance with large datasets
+- Break and continue affect the immediate containing loop
 
 ## 21. Lists, Sets, and Tuples 🍎
 **Lists (Mutable, Ordered):**
@@ -606,10 +606,10 @@ set1.difference(set2)   # {1, 2}
 ```
 
 **Bullet Points to Remember:**
-• Lists are ordered and mutable, use for sequences
-• Tuples are ordered and immutable, use for fixed data
-• Sets are unordered and unique, use for membership testing
-• Choose the right data structure for your needs
+- Lists are ordered and mutable, use for sequences
+- Tuples are ordered and immutable, use for fixed data
+- Sets are unordered and unique, use for membership testing
+- Choose the right data structure for your needs
 
 ## 22. ⭐ Shopping Cart Program 🛒
 **Implementation:**
@@ -648,10 +648,10 @@ print("Thanks for shopping!")
 ```
 
 **Bullet Points to Remember:**
-• Use parallel lists to store related data
-• Validate items exist before removing
-• Use enumerate() to access both index and value
-• sum() function calculates total of numeric list
+- Use parallel lists to store related data
+- Validate items exist before removing
+- Use enumerate() to access both index and value
+- sum() function calculates total of numeric list
 
 ## 23. 2D Collections ⬜
 **2D Lists:**
@@ -678,10 +678,10 @@ grid = [[0 for _ in range(3)] for _ in range(3)]
 ```
 
 **Bullet Points to Remember:**
-• Use [row][column] indexing for 2D lists
-• Nested loops required for full traversal
-• List comprehension can create 2D structures
-• Useful for grids, matrices, and game boards
+- Use [row][column] indexing for 2D lists
+- Nested loops required for full traversal
+- List comprehension can create 2D structures
+- Useful for grids, matrices, and game boards
 
 ## 24. ⭐ Quiz Game 💯
 **Implementation:**
@@ -708,10 +708,10 @@ print(f"\nFinal score: {score}/{len(questions)}")
 ```
 
 **Bullet Points to Remember:**
-• Store questions and answers in structured format
-• Use enumerate() for question numbering
-• Make comparisons case-insensitive with .lower()
-• Track score throughout the quiz
+- Store questions and answers in structured format
+- Use enumerate() for question numbering
+- Make comparisons case-insensitive with .lower()
+- Track score throughout the quiz
 
 ## 25. Dictionaries 📙
 **Basic Operations:**
@@ -743,10 +743,10 @@ for key, value in student.items():
 ```
 
 **Bullet Points to Remember:**
-• Dictionaries store key-value pairs
-• Keys must be immutable (strings, numbers, tuples)
-• Use .get() to avoid KeyError for missing keys
-• items() returns key-value pairs for iteration
+- Dictionaries store key-value pairs
+- Keys must be immutable (strings, numbers, tuples)
+- Use .get() to avoid KeyError for missing keys
+- items() returns key-value pairs for iteration
 
 ## 26. ⭐ Concession Stand Program 🍿
 **Implementation:**
@@ -784,10 +784,10 @@ print(f"Total: ${total:.2f}")
 ```
 
 **Bullet Points to Remember:**
-• Use dictionaries for menu items and prices
-• Validate user input against menu keys
-• Keep running total as items are added
-• Allow users to quit gracefully
+- Use dictionaries for menu items and prices
+- Validate user input against menu keys
+- Keep running total as items are added
+- Allow users to quit gracefully
 
 ## 27. Random Numbers 🎲
 **Random Module:**
@@ -815,11 +815,11 @@ random.sample(colors, 2)    # Without replacement
 ```
 
 **Bullet Points to Remember:**
-• Always import random module first
-• randint() is inclusive on both ends
-• randrange() excludes the stop value
-• choice() picks one item, choices() picks multiple
-• shuffle() modifies the original list
+- Always import random module first
+- randint() is inclusive on both ends
+- randrange() excludes the stop value
+- choice() picks one item, choices() picks multiple
+- shuffle() modifies the original list
 
 ## 28. ⭐ Number Guessing Game 🔢
 **Implementation:**
@@ -856,10 +856,10 @@ while is_running:
 ```
 
 **Bullet Points to Remember:**
-• Validate input using isdigit()
-• Keep track of number of guesses
-• Provide helpful feedback (too high/low)
-• Check for out-of-range guesses
+- Validate input using isdigit()
+- Keep track of number of guesses
+- Provide helpful feedback (too high/low)
+- Check for out-of-range guesses
 
 ## 29. ⭐ Rock, Paper, Scissors Game 🗿
 **Implementation:**
@@ -895,10 +895,10 @@ print("Thanks for playing!")
 ```
 
 **Bullet Points to Remember:**
-• Store valid options in a tuple
-• Use random.choice() for computer selection
-• Check win conditions with logical operators
-• Allow players to play multiple rounds
+- Store valid options in a tuple
+- Use random.choice() for computer selection
+- Check win conditions with logical operators
+- Allow players to play multiple rounds
 
 ## 30. ⭐ Dice Roller Program ⚂
 **Implementation:**
@@ -942,10 +942,10 @@ while True:
 ```
 
 **Bullet Points to Remember:**
-• Use ASCII art for visual dice representation
-• Store dice values in a list
-• Print dice art line by line for alignment
-• Calculate and display total sum
+- Use ASCII art for visual dice representation
+- Store dice values in a list
+- Print dice art line by line for alignment
+- Calculate and display total sum
 
 ## 31. Functions 📞
 **Basic Syntax:**
@@ -971,11 +971,11 @@ print_info("Alice", 25)
 ```
 
 **Bullet Points to Remember:**
-• Use def keyword to define functions
-• Parameters are variables that receive arguments
-• return statement sends value back to caller
-• Functions promote code reusability
-• Use descriptive function names
+- Use def keyword to define functions
+- Parameters are variables that receive arguments
+- return statement sends value back to caller
+- Functions promote code reusability
+- Use descriptive function names
 
 ## 32. Default Arguments 👍
 **Syntax:**
@@ -996,10 +996,10 @@ print(calculate_area(4, 6))     # Rectangle: 24
 ```
 
 **Bullet Points to Remember:**
-• Default parameters must come after non-default ones
-• Use None for mutable default arguments
-• Allows function overloading-like behavior
-• Makes functions more flexible
+- Default parameters must come after non-default ones
+- Use None for mutable default arguments
+- Allows function overloading-like behavior
+- Makes functions more flexible
 
 ## 33. Keyword Arguments 🗝️
 **Syntax:**
@@ -1019,10 +1019,10 @@ print(create_profile("Diana", 28, country="Australia"))
 ```
 
 **Bullet Points to Remember:**
-• Keyword arguments can be in any order
-• More readable and self-documenting
-• Positional args must come before keyword args
-• Useful for functions with many parameters
+- Keyword arguments can be in any order
+- More readable and self-documenting
+- Positional args must come before keyword args
+- Useful for functions with many parameters
 
 ## 34. *args & **kwargs 📦
 **Variable Arguments:**
@@ -1048,10 +1048,10 @@ full_function("Bob", 1, 2, 3, age=30, city="LA")
 ```
 
 **Bullet Points to Remember:**
-• *args collects extra positional arguments into tuple
-• **kwargs collects extra keyword arguments into dict
-• Order: positional, *args, keyword, **kwargs
-• Useful for wrapper functions and APIs
+- *args collects extra positional arguments into tuple
+- **kwargs collects extra keyword arguments into dict
+- Order: positional, *args, keyword, **kwargs
+- Useful for wrapper functions and APIs
 
 ## 35. Iterables 🔂
 **Definition and Usage:**
@@ -1086,11 +1086,11 @@ for num in Countdown(3):
 ```
 
 **Bullet Points to Remember:**
-• Iterables can be used in for loops
-• iter() creates iterator from iterable
-• next() gets next item from iterator
-• StopIteration exception ends iteration
-• Lists, strings, dicts are built-in iterables
+- Iterables can be used in for loops
+- iter() creates iterator from iterable
+- next() gets next item from iterator
+- StopIteration exception ends iteration
+- Lists, strings, dicts are built-in iterables
 
 ## 36. Membership Operators 🔎
 **Operators:**
@@ -1119,11 +1119,11 @@ print(15 in range(1, 10))       # False
 ```
 
 **Bullet Points to Remember:**
-• 'in' checks if item exists in sequence
-• 'not in' is the opposite of 'in'
-• Case-sensitive for strings
-• For dicts, checks keys by default
-• Works with any iterable object
+- 'in' checks if item exists in sequence
+- 'not in' is the opposite of 'in'
+- Case-sensitive for strings
+- For dicts, checks keys by default
+- Works with any iterable object
 
 ## 37. List Comprehensions 📃
 **Syntax:**
@@ -1149,11 +1149,11 @@ unique_lengths = {len(word) for word in words}
 ```
 
 **Bullet Points to Remember:**
-• More concise than traditional loops
-• Creates new list, doesn't modify original
-• Can include conditions for filtering
-• Works with dictionaries and sets too
-• Don't overuse - readability matters
+- More concise than traditional loops
+- Creates new list, doesn't modify original
+- Can include conditions for filtering
+- Works with dictionaries and sets too
+- Don't overuse - readability matters
 
 ## 38. Match-Case Statements 📆
 **Syntax (Python 3.10+):**
@@ -1191,11 +1191,11 @@ def categorize_number(x):
 ```
 
 **Bullet Points to Remember:**
-• Python 3.10+ feature (alternative to if-elif)
-• Use _ for default case (wildcard)
-• Can match multiple values with |
-• Supports pattern matching and guards
-• More powerful than traditional switch statements
+- Python 3.10+ feature (alternative to if-elif)
+- Use _ for default case (wildcard)
+- Can match multiple values with |
+- Supports pattern matching and guards
+- More powerful than traditional switch statements
 
 ## 39. Modules 📨
 **Creating and Using Modules:**
@@ -1225,11 +1225,11 @@ import os, sys
 ```
 
 **Bullet Points to Remember:**
-• Modules are .py files containing code
-• import brings entire module
-• from...import brings specific items
-• Use 'as' for aliases
-• Python has many built-in modules
+- Modules are .py files containing code
+- import brings entire module
+- from...import brings specific items
+- Use 'as' for aliases
+- Python has many built-in modules
 
 ## 40. Scope Resolution 🔬
 **LEGB Rule:**
@@ -1268,11 +1268,11 @@ def outer_func():
 ```
 
 **Bullet Points to Remember:**
-• LEGB: Local → Enclosing → Global → Built-in
-• Use 'global' to modify global variables
-• Use 'nonlocal' to modify enclosing scope variables
-• Variables are searched in LEGB order
-• Avoid global variables when possible
+- LEGB: Local → Enclosing → Global → Built-in
+- Use 'global' to modify global variables
+- Use 'nonlocal' to modify enclosing scope variables
+- Variables are searched in LEGB order
+- Avoid global variables when possible
 
 ## 41. if __name__ == '__main__': 📥
 **Purpose and Usage:**
@@ -1297,11 +1297,11 @@ print(result)
 ```
 
 **Bullet Points to Remember:**
-• Allows modules to be both imported and run directly
-• Code under if __name__ == "__main__": only runs when script is executed directly
-• Prevents code from running during imports
-• Good practice for all Python modules
-• Enables module testing
+- Allows modules to be both imported and run directly
+- Code under if __name__ == "__main__": only runs when script is executed directly
+- Prevents code from running during imports
+- Good practice for all Python modules
+- Enables module testing
 
 ## 42. ⭐ Banking Program 💰
 **Implementation:**
@@ -1355,11 +1355,11 @@ if __name__ == "__main__":
 ```
 
 **Bullet Points to Remember:**
-• Separate functions for different operations
-• Validate user input for amounts
-• Check for sufficient funds before withdrawal
-• Use main() function for program flow
-• Keep running balance throughout session
+- Separate functions for different operations
+- Validate user input for amounts
+- Check for sufficient funds before withdrawal
+- Use main() function for program flow
+- Keep running balance throughout session
 
 ## 43. ⭐ Slot Machine 🎰
 **Implementation:**
@@ -1424,11 +1424,11 @@ if __name__ == "__main__":
 ```
 
 **Bullet Points to Remember:**
-• Use random.choice() for symbol selection
-• Different symbols have different payout rates
-• Check for three matching symbols
-• Deduct bet before spinning
-• Add payout to balance after winning
+- Use random.choice() for symbol selection
+- Different symbols have different payout rates
+- Check for three matching symbols
+- Deduct bet before spinning
+- Add payout to balance after winning
 
 ## 44. ⭐ Encryption Program 🔐
 **Caesar Cipher Implementation:**
@@ -1474,11 +1474,11 @@ if __name__ == "__main__":
 ```
 
 **Bullet Points to Remember:**
-• Caesar cipher shifts letters by fixed amount
-• Use ord() to get ASCII value, chr() to convert back
-• Handle uppercase and lowercase separately
-• Non-alphabetic characters remain unchanged
-• Decryption uses negative shift
+- Caesar cipher shifts letters by fixed amount
+- Use ord() to get ASCII value, chr() to convert back
+- Handle uppercase and lowercase separately
+- Non-alphabetic characters remain unchanged
+- Decryption uses negative shift
 
 ## 45. ⭐ Hangman Game 🕺
 **Implementation:**
@@ -1558,11 +1558,11 @@ if __name__ == "__main__":
 ```
 
 **Bullet Points to Remember:**
-• Track guessed letters to avoid duplicates
-• Update word display when correct letter guessed
-• Decrease tries only for wrong guesses
-• Use ASCII art for visual feedback
-• Check for win condition after each guess
+- Track guessed letters to avoid duplicates
+- Update word display when correct letter guessed
+- Decrease tries only for wrong guesses
+- Use ASCII art for visual feedback
+- Check for win condition after each guess
 
 ## 46. Python Object-Oriented Programming 🚗
 **Classes and Objects:**
@@ -1595,11 +1595,11 @@ print(f"Odometer: {car1.odometer}")
 ```
 
 **Bullet Points to Remember:**
-• Classes are blueprints for creating objects
-• __init__ method initializes object attributes
-• self refers to the current instance
-• Methods are functions defined inside classes
-• Objects are instances of classes
+- Classes are blueprints for creating objects
+- __init__ method initializes object attributes
+- self refers to the current instance
+- Methods are functions defined inside classes
+- Objects are instances of classes
 
 ## 47. Class Variables 🎓
 **Class vs Instance Variables:**
@@ -1631,11 +1631,11 @@ print(Student.get_num_students()) # 2
 ```
 
 **Bullet Points to Remember:**
-• Class variables are shared by all instances
-• Instance variables are unique to each object
-• Use ClassName.variable to access class variables
-• @classmethod decorator for class methods
-• cls parameter refers to the class itself
+- Class variables are shared by all instances
+- Instance variables are unique to each object
+- Use ClassName.variable to access class variables
+- @classmethod decorator for class methods
+- cls parameter refers to the class itself
 
 ## 48. Inheritance 👨‍👦‍👦
 **Parent and Child Classes:**
@@ -1678,11 +1678,11 @@ cat.meow()  # Child method
 ```
 
 **Bullet Points to Remember:**
-• Child classes inherit attributes and methods from parent
-• Use super() to call parent class methods
-• Child classes can override parent methods
-• Child classes can add their own methods
-• Promotes code reusability
+- Child classes inherit attributes and methods from parent
+- Use super() to call parent class methods
+- Child classes can override parent methods
+- Child classes can add their own methods
+- Promotes code reusability
 
 ## 49. Multiple Inheritance 🐟
 **Inheriting from Multiple Classes:**
@@ -1725,11 +1725,11 @@ duck.fly()   # From Flyer
 ```
 
 **Bullet Points to Remember:**
-• A class can inherit from multiple parent classes
-• Method Resolution Order (MRO) determines which method is called
-• Use super() carefully with multiple inheritance
-• Can lead to diamond problem - be cautious
-• Consider composition over multiple inheritance
+- A class can inherit from multiple parent classes
+- Method Resolution Order (MRO) determines which method is called
+- Use super() carefully with multiple inheritance
+- Can lead to diamond problem - be cautious
+- Consider composition over multiple inheritance
 
 ## 50. super() 🔴
 **Using super() Function:**
@@ -1769,11 +1769,11 @@ square.describe()
 ```
 
 **Bullet Points to Remember:**
-• super() calls methods from parent class
-• Useful for extending parent functionality
-• Maintains inheritance chain properly
-• Essential for proper constructor chaining
-• Helps with method resolution in complex hierarchies
+- super() calls methods from parent class
+- Useful for extending parent functionality
+- Maintains inheritance chain properly
+- Essential for proper constructor chaining
+- Helps with method resolution in complex hierarchies
 
 ## 51. Polymorphism 🎭
 **Same Interface, Different Implementation:**
@@ -1832,11 +1832,11 @@ for shape in shapes:
 ```
 
 **Bullet Points to Remember:**
-• Same method name, different implementations
-• Abstract base classes define common interface
-• Enables treating different objects uniformly
-• @abstractmethod forces implementation in child classes
-• Powerful for building flexible systems
+- Same method name, different implementations
+- Abstract base classes define common interface
+- Enables treating different objects uniformly
+- @abstractmethod forces implementation in child classes
+- Powerful for building flexible systems
 
 ## 52. Duck Typing 🦆
 **"If it looks like a duck and quacks like a duck, it's a duck":**
@@ -1879,11 +1879,11 @@ make_it_walk_and_talk(person)   # Works
 ```
 
 **Bullet Points to Remember:**
-• Python focuses on behavior, not type
-• No need for explicit inheritance or interfaces
-• If object has required methods, it works
-• More flexible than static typing
-• "Easier to ask for forgiveness than permission"
+- Python focuses on behavior, not type
+- No need for explicit inheritance or interfaces
+- If object has required methods, it works
+- More flexible than static typing
+- "Easier to ask for forgiveness than permission"
 
 ## 53. Static Methods ⚡
 **Methods that don't need self or cls:**
@@ -1925,11 +1925,11 @@ print(employee.is_workday("Sunday"))  # False
 ```
 
 **Bullet Points to Remember:**
-• Static methods don't access self or cls
-• Can be called on class or instance
-• Use @staticmethod decorator
-• Utility functions related to the class
-• Don't need instance to be created
+- Static methods don't access self or cls
+- Can be called on class or instance
+- Use @staticmethod decorator
+- Utility functions related to the class
+- Don't need instance to be created
 
 ## 54. Class Methods 🏫
 **Methods that work with the class itself:**
@@ -1977,11 +1977,11 @@ print(Person.get_population())  # 2
 ```
 
 **Bullet Points to Remember:**
-• Class methods receive cls as first parameter
-• Use @classmethod decorator
-• Can access class variables and methods
-• Often used for alternative constructors
-• Can be called on class or instance
+- Class methods receive cls as first parameter
+- Use @classmethod decorator
+- Can access class variables and methods
+- Often used for alternative constructors
+- Can be called on class or instance
 
 ## 55. Magic Methods 🌟
 **Special Methods (Dunder Methods):**
@@ -2036,11 +2036,11 @@ print(book1["title"])    # 1984
 ```
 
 **Bullet Points to Remember:**
-• Magic methods start and end with double underscores
-• Allow custom behavior for built-in operations
-• __str__ for user-friendly string representation
-• __repr__ for developer string representation
-• Enable operator overloading
+- Magic methods start and end with double underscores
+- Allow custom behavior for built-in operations
+- __str__ for user-friendly string representation
+- __repr__ for developer string representation
+- Enable operator overloading
 
 ## 56. @property ⚙️
 **Getter, Setter, and Deleter:**
@@ -2112,11 +2112,11 @@ print(temp.celsius)      # 30.0
 ```
 
 **Bullet Points to Remember:**
-• @property makes methods accessible like attributes
-• Provides getter, setter, and deleter functionality
-• Enables data validation and computed properties
-• Use underscore prefix for "private" attributes
-• Maintains clean interface while adding logic
+- @property makes methods accessible like attributes
+- Provides getter, setter, and deleter functionality
+- Enables data validation and computed properties
+- Use underscore prefix for "private" attributes
+- Maintains clean interface while adding logic
 
 ## 57. Decorators 🎊
 **Functions that modify other functions:**
@@ -2170,11 +2170,11 @@ print(fibonacci(10))       # Uses caching for efficiency
 ```
 
 **Bullet Points to Remember:**
-• Decorators modify function behavior without changing code
-• Use @decorator_name syntax above function definition
-• Common use cases: timing, logging, caching, authentication
-• Can stack multiple decorators
-• functools.wraps preserves original function metadata
+- Decorators modify function behavior without changing code
+- Use @decorator_name syntax above function definition
+- Common use cases: timing, logging, caching, authentication
+- Can stack multiple decorators
+- functools.wraps preserves original function metadata
 
 ## 58. Exception Handling 🚦
 **Try, Except, Else, Finally:**
@@ -2220,11 +2220,11 @@ except ValueError:
 ```
 
 **Bullet Points to Remember:**
-• Use try-except to handle potential errors gracefully
-• Specific exceptions should be caught before general ones
-• else block runs only if no exceptions occur
-• finally block always executes (cleanup code)
-• Create custom exceptions by inheriting from Exception
+- Use try-except to handle potential errors gracefully
+- Specific exceptions should be caught before general ones
+- else block runs only if no exceptions occur
+- finally block always executes (cleanup code)
+- Create custom exceptions by inheriting from Exception
 
 ## 59. File Detection 🕵️‍♂️
 **Checking if Files and Directories Exist:**
@@ -2270,11 +2270,11 @@ if not os.path.exists(directory):
 ```
 
 **Bullet Points to Remember:**
-• Use os.path.exists() to check if path exists
-• os.path.isfile() checks specifically for files
-• os.path.isdir() checks specifically for directories
-• Always check existence before file operations
-• os.makedirs() creates directories recursively
+- Use os.path.exists() to check if path exists
+- os.path.isfile() checks specifically for files
+- os.path.isdir() checks specifically for directories
+- Always check existence before file operations
+- os.makedirs() creates directories recursively
 
 ## 60. Writing Files ✍
 **Creating and Writing to Files:**
@@ -2337,11 +2337,11 @@ safe_write_file("output.txt", "Sample content")
 ```
 
 **Bullet Points to Remember:**
-• Use 'with' statement for automatic file closing
-• 'w' mode overwrites, 'a' mode appends
-• Always handle file writing exceptions
-• json.dump() for JSON files, csv.writer() for CSV files
-• Use newline='' parameter when writing CSV files
+- Use 'with' statement for automatic file closing
+- 'w' mode overwrites, 'a' mode appends
+- Always handle file writing exceptions
+- json.dump() for JSON files, csv.writer() for CSV files
+- Use newline='' parameter when writing CSV files
 
 ## 61. Reading Files 🔍
 **Reading Different File Types:**
@@ -2422,11 +2422,11 @@ content = read_with_encoding("example.txt")
 ```
 
 **Bullet Points to Remember:**
-• Always use try-except when reading files
-• read() gets entire file, readline() gets one line
-• readlines() returns list of all lines
-• Use appropriate encoding (utf-8 is common)
-• json.load() for JSON, csv.reader() for CSV files
+- Always use try-except when reading files
+- read() gets entire file, readline() gets one line
+- readlines() returns list of all lines
+- Use appropriate encoding (utf-8 is common)
+- json.load() for JSON, csv.reader() for CSV files
 
 ## 62. Dates & Times 📅
 **Working with datetime Module:**
@@ -2486,11 +2486,11 @@ print(f"Execution time: {execution_time:.2f} seconds")
 ```
 
 **Bullet Points to Remember:**
-• datetime.datetime.now() for current date and time
-• Use strftime() to format dates as strings
-• Use strptime() to parse strings into dates
-• timedelta for date arithmetic
-• time.time() for measuring execution time
+- datetime.datetime.now() for current date and time
+- Use strftime() to format dates as strings
+- Use strptime() to parse strings into dates
+- timedelta for date arithmetic
+- time.time() for measuring execution time
 
 ## 63. ⭐ Alarm Clock ⏰
 **Implementation:**
@@ -2622,11 +2622,11 @@ if __name__ == "__main__":
 ```
 
 **Bullet Points to Remember:**
-• Use threading for background alarm checking
-• Compare current time with alarm time
-• Handle time parsing with strptime()
-• Consider using sound libraries for audio alerts
-• Implement graceful shutdown with keyboard interrupts
+- Use threading for background alarm checking
+- Compare current time with alarm time
+- Handle time parsing with strptime()
+- Consider using sound libraries for audio alerts
+- Implement graceful shutdown with keyboard interrupts
 
 ## 64. Multithreading 🧵
 **Running Multiple Tasks Concurrently:**
@@ -2796,12 +2796,12 @@ if __name__ == "__main__":
 ```
 
 **Bullet Points to Remember:**
-• Use threading.Thread() to create threads
-• Call start() to begin thread execution
-• Use join() to wait for thread completion
-• Use locks for thread-safe operations
-• ThreadPoolExecutor for better thread management
-• GIL (Global Interpreter Lock) limits true parallelism in Python
+- Use threading.Thread() to create threads
+- Call start() to begin thread execution
+- Use join() to wait for thread completion
+- Use locks for thread-safe operations
+- ThreadPoolExecutor for better thread management
+- GIL (Global Interpreter Lock) limits true parallelism in Python
 
 ## 65. Request API Data ↩️
 **Making HTTP Requests:**
@@ -2996,12 +2996,12 @@ if __name__ == "__main__":
 ```
 
 **Bullet Points to Remember:**
-• Install requests library: pip install requests
-• Always check response.status_code before processing
-• Use response.json() to parse JSON data
-• Handle exceptions with try-except blocks
-• Use params parameter for query parameters
-• Set timeouts to avoid hanging requests
+- Install requests library: pip install requests
+- Always check response.status_code before processing
+- Use response.json() to parse JSON data
+- Handle exceptions with try-except blocks
+- Use params parameter for query parameters
+- Set timeouts to avoid hanging requests
 
 ## 66. PyQt5 GUI Intro 🖥️
 **Creating Desktop Applications:**
@@ -3148,12 +3148,12 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• Install PyQt5: pip install PyQt5
-• QApplication manages the GUI application
-• QWidget is the base class for all GUI objects
-• Use layouts for responsive design
-• Connect signals to slots with .clicked.connect()
-• Always call sys.exit(app.exec_()) to run the event loop
+- Install PyQt5: pip install PyQt5
+- QApplication manages the GUI application
+- QWidget is the base class for all GUI objects
+- Use layouts for responsive design
+- Connect signals to slots with .clicked.connect()
+- Always call sys.exit(app.exec_()) to run the event loop
 
 ## 67. PyQt5 Labels 🏷️
 **Working with Text and Labels:**
@@ -3337,12 +3337,12 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• QLabel displays text or images
-• Use setAlignment() for text positioning
-• setWordWrap(True) enables automatic line breaks
-• setStyleSheet() for custom CSS-like styling
-• QTimer for updating labels dynamically
-• Rich text format supports HTML tags
+- QLabel displays text or images
+- Use setAlignment() for text positioning
+- setWordWrap(True) enables automatic line breaks
+- setStyleSheet() for custom CSS-like styling
+- QTimer for updating labels dynamically
+- Rich text format supports HTML tags
 
 ## 68. PyQt5 Images 📷
 **Displaying and Working with Images:**
@@ -3560,12 +3560,12 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• QPixmap for displaying images in PyQt5
-• QFileDialog.getOpenFileName() for file selection
-• Use QScrollArea for large images
-• QPainter for drawing on images
-• scaled() method for resizing images
-• transformed() method for rotating images
+- QPixmap for displaying images in PyQt5
+- QFileDialog.getOpenFileName() for file selection
+- Use QScrollArea for large images
+- QPainter for drawing on images
+- scaled() method for resizing images
+- transformed() method for rotating images
 
 ## 69. PyQt5 Layout Managers 🧲
 **Organizing Widgets with Layouts:**
@@ -3799,10 +3799,10 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• QVBoxLayout arranges widgets vertically
-• QHBoxLayout arranges widgets horizontally  
-• QGridLayout arranges widgets in rows and columns
-• QFormLayout creates label-input pairs
-• Use addStretch() to add flexible space
-• QSplitter creates resizable panes
-• Layouts can be nested for complex designs
+- QVBoxLayout arranges widgets vertically
+- QHBoxLayout arranges widgets horizontally  
+- QGridLayout arranges widgets in rows and columns
+- QFormLayout creates label-input pairs
+- Use addStretch() to add flexible space
+- QSplitter creates resizable panes
+- Layouts can be nested for complex designs
