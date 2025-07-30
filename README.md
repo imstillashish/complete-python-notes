@@ -87,6 +87,7 @@ This isn't just another Python tutorial. It's a **complete learning journey** th
 </details>
 
 > 📋 For the complete curriculum, explore the [Python_Complete_Notes.md](Python_Complete_Notes.md) file.
+> 📃 For PDF version: [Python_Complete_Notes.pdf](Python_Complete_Notes.pdf)
 
 ## 🚀 Getting Started
 
