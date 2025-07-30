@@ -3,7 +3,90 @@
 > *I hope it's easy to read and understand!*
 
 **Credit**: [<span style="color: #007bffff;">Bro Code</span>](https://www.youtube.com/@BroCodez)
+
 **Video Tutorial**: [<span style="color:#007bffff;">Python Tutorial for Beginners</span>](https://youtu.be/ix9cRaBkVe0)
+
+---
+
+# Table of Contents
+
+1. [Python Tutorial for Beginners 🐍](#1-python-tutorial-for-beginners-🐍)  
+2. [Variables ❎](#2-variables-❎)  
+3. [Type Casting 💱](#3-type-casting-💱)  
+4. [User Input ⌨️](#4-user-input-⌨️)  
+5. [⭐ Madlibs Game 📖](#5-⭐-madlibs-game-📖)  
+6. [Arithmetic & Math 📐](#6-arithmetic--math-📐)  
+7. [If Statements 🤔](#7-if-statements-🤔)  
+8. [⭐ Calculator Program 🧮](#8-⭐-calculator-program-🧮)  
+9. [⭐ Weight Conversion Program 🏋️](#9-⭐-weight-conversion-program-🏋️)  
+10. [⭐ Temperature Conversion Program 🌡️](#10-⭐-temperature-conversion-program-🌡️)  
+11. [Logical Operators 🌦️](#11-logical-operators-🌦️)  
+12. [Conditional Expressions ❓](#12-conditional-expressions-❓)  
+13. [String Methods 〰️](#13-string-methods-〰️)  
+14. [String Indexing ✂️](#14-string-indexing-✂️)  
+15. [Format Specifiers 💬](#15-format-specifiers-💬)  
+16. [While Loops ♾️](#16-while-loops-♾️)  
+17. [⭐ Compound Interest Calculator 💵](#17-⭐-compound-interest-calculator-💵)  
+18. [For Loops 🔁](#18-for-loops-🔁)  
+19. [⭐ Countdown Timer Program ⌛](#19-⭐-countdown-timer-program-⌛)  
+20. [Nested Loops ➿](#20-nested-loops-➿)  
+21. [Lists, Sets, and Tuples 🍎](#21-lists-sets-and-tuples-🍎)  
+22. [⭐ Shopping Cart Program 🛒](#22-⭐-shopping-cart-program-🛒)  
+23. [2D Collections ⬜](#23-2d-collections-⬜)  
+24. [⭐ Quiz Game 💯](#24-⭐-quiz-game-💯)  
+25. [Dictionaries 📙](#25-dictionaries-📙)  
+26. [⭐ Concession Stand Program 🍿](#26-⭐-concession-stand-program-🍿)  
+27. [Random Numbers 🎲](#27-random-numbers-🎲)  
+28. [⭐ Number Guessing Game 🔢](#28-⭐-number-guessing-game-🔢)  
+29. [⭐ Rock, Paper, Scissors Game 🗿](#29-⭐-rock-paper-scissors-game-🗿)  
+30. [⭐ Dice Roller Program ⚂](#30-⭐-dice-roller-program-⚂)  
+31. [Functions 📞](#31-functions-📞)  
+32. [Default Arguments 👍](#32-default-arguments-👍)  
+33. [Keyword Arguments 🗝️](#33-keyword-arguments-🗝️)  
+34. [*args & **kwargs 📦](#34-args--kwargs-📦)  
+35. [Iterables 🔂](#35-iterables-🔂)  
+36. [Membership Operators 🔎](#36-membership-operators-🔎)  
+37. [List Comprehensions 📃](#37-list-comprehensions-📃)  
+38. [Match-Case Statements 📆](#38-match-case-statements-📆)  
+39. [Modules 📨](#39-modules-📨)  
+40. [Scope Resolution 🔬](#40-scope-resolution-🔬)  
+41. [if __name__ == '__main__': 📥](#41-if-__name__--__main___-📥)  
+42. [⭐ Banking Program 💰](#42-⭐-banking-program-💰)  
+43. [⭐ Slot Machine 🎰](#43-⭐-slot-machine-🎰)  
+44. [⭐ Encryption Program 🔐](#44-⭐-encryption-program-🔐)  
+45. [⭐ Hangman Game 🕺](#45-⭐-hangman-game-🕺)  
+46. [Python Object-Oriented Programming 🚗](#46-python-object-oriented-programming-🚗)  
+47. [Class Variables 🎓](#47-class-variables-🎓)  
+48. [Inheritance 👨‍👦‍👦](#48-inheritance-👨‍👦‍👦)  
+49. [Multiple Inheritance 🐟](#49-multiple-inheritance-🐟)  
+50. [super() 🔴](#50-super-🔴)  
+51. [Polymorphism 🎭](#51-polymorphism-🎭)  
+52. [Duck Typing 🦆](#52-duck-typing-🦆)  
+53. [Static Methods ⚡](#53-static-methods-⚡)  
+54. [Class Methods 🏫](#54-class-methods-🏫)  
+55. [Magic Methods 🌟](#55-magic-methods-🌟)  
+56. [@property ⚙️](#56-property-⚙️)  
+57. [Decorators 🎊](#57-decorators-🎊)  
+58. [Exception Handling 🚦](#58-exception-handling-🚦)  
+59. [File Detection 🕵️‍♂️](#59-file-detection-🕵️‍♂️)  
+60. [Writing Files ✍](#60-writing-files-✍)  
+61. [Reading Files 🔍](#61-reading-files-🔍)  
+62. [Dates & Times 📅](#62-dates--times-📅)  
+63. [⭐ Alarm Clock ⏰](#63-⭐-alarm-clock-⏰)  
+64. [Multithreading 🧵](#64-multithreading-🧵)  
+65. [Request API Data ↩️](#65-request-api-data-↩️)  
+66. [PyQt5 GUI Intro 🖥️](#66-pyqt5-gui-intro-🖥️)  
+67. [PyQt5 Labels 🏷️](#67-pyqt5-labels-🏷️)  
+68. [PyQt5 Images 📷](#68-pyqt5-images-📷)  
+69. [PyQt5 Layout Managers 🧲](#69-pyqt5-layout-managers-🧲)  
+70. [PyQt5 Buttons 🛎️](#70-pyqt5-buttons-🛎️)  
+71. [PyQt5 Checkboxes ✅](#71-pyqt5-checkboxes-✅)
+72. [PyQt5 Radio Buttons 🔘](#72-pyqt5-radio-buttons-🔘)
+73. [PyQt5 Spin Boxes 🔢](#73-pyqt5-spin-boxes-🔢)
+74. [PyQt5 Sliders 🔀](#74-pyqt5-sliders-🔀)
+75. [PyQt5 ComboBoxes 🔽](#75-pyqt5-comboboxes-🔽)
+76. [PyQt5 Lists 🔤](#76-pyqt5-lists-🔤)
+77. [PyQt5 Tables 🔍](#77-pyqt5-tables-🔍)
 
 ---
 ## 1. Python Tutorial for Beginners 🐍
@@ -329,6 +412,7 @@ if age >= 18 and has_license:
 - 'not' flips the boolean value
 - Use parentheses to group complex logical expressions
 
+---
 ## 12. Conditional Expressions ❓
 **Ternary Operator:**
 ```python
@@ -355,6 +439,7 @@ grade = "A" if score >= 90 else "B" if score >= 80 else "C"
 - Nested ternaries can become hard to read
 - Use regular if-else for complex logic
 
+---
 ## 13. String Methods 〰️
 **Common Methods:**
 ```python
@@ -382,6 +467,7 @@ len(text)             # 11 (built-in function)
 - find() returns -1 if substring not found
 - isdigit() and isalpha() useful for input validation
 
+---
 ## 14. String Indexing ✂️
 **Concepts:**
 ```python
@@ -408,6 +494,7 @@ text[::-1]   # "nohtyP" (reverse)
 - Slicing end index is exclusive
 - [::-1] is common way to reverse strings
 
+---
 ## 15. Format Specifiers 💬
 **Methods:**
 ```python
@@ -439,6 +526,7 @@ print(f"Padded: {5:03d}")           # 005
 - Format specifiers control number display
 - f-strings are more readable and faster
 
+---
 ## 16. While Loops ♾️
 **Structure:**
 ```python
@@ -470,6 +558,7 @@ while True:
 - continue skips current iteration, doesn't exit loop
 - Avoid infinite loops unless intentional
 
+---
 ## 17. ⭐ Compound Interest Calculator 💵
 **Implementation:**
 ```python
@@ -491,6 +580,7 @@ print(f"Interest earned: ${interest:.2f}")
 - Use ** for exponentiation
 - Display results with 2 decimal places for currency
 
+---
 ## 18. For Loops 🔁
 **Syntax:**
 ```python
@@ -524,6 +614,7 @@ for index, fruit in enumerate(fruits):
 - enumerate() provides both index and value
 - More pythonic than while loops for known iterations
 
+---
 ## 19. ⭐ Countdown Timer Program ⌛
 **Implementation:**
 ```python
@@ -546,6 +637,7 @@ print("Time's up!")
 - end="\r" overwrites the same line
 - :02d formats numbers with leading zeros
 
+---
 ## 20. Nested Loops ➿
 **Concept:**
 ```python
@@ -569,6 +661,7 @@ for i in range(rows):
 - Can impact performance with large datasets
 - Break and continue affect the immediate containing loop
 
+---
 ## 21. Lists, Sets, and Tuples 🍎
 **Lists (Mutable, Ordered):**
 ```python
@@ -611,6 +704,7 @@ set1.difference(set2)   # {1, 2}
 - Sets are unordered and unique, use for membership testing
 - Choose the right data structure for your needs
 
+---
 ## 22. ⭐ Shopping Cart Program 🛒
 **Implementation:**
 ```python
@@ -653,6 +747,7 @@ print("Thanks for shopping!")
 - Use enumerate() to access both index and value
 - sum() function calculates total of numeric list
 
+---
 ## 23. 2D Collections ⬜
 **2D Lists:**
 ```python
@@ -683,6 +778,7 @@ grid = [[0 for _ in range(3)] for _ in range(3)]
 - List comprehension can create 2D structures
 - Useful for grids, matrices, and game boards
 
+---
 ## 24. ⭐ Quiz Game 💯
 **Implementation:**
 ```python
@@ -713,6 +809,7 @@ print(f"\nFinal score: {score}/{len(questions)}")
 - Make comparisons case-insensitive with .lower()
 - Track score throughout the quiz
 
+---
 ## 25. Dictionaries 📙
 **Basic Operations:**
 ```python
@@ -748,6 +845,7 @@ for key, value in student.items():
 - Use .get() to avoid KeyError for missing keys
 - items() returns key-value pairs for iteration
 
+---
 ## 26. ⭐ Concession Stand Program 🍿
 **Implementation:**
 ```python
@@ -789,6 +887,7 @@ print(f"Total: ${total:.2f}")
 - Keep running total as items are added
 - Allow users to quit gracefully
 
+---
 ## 27. Random Numbers 🎲
 **Random Module:**
 ```python
@@ -821,6 +920,7 @@ random.sample(colors, 2)    # Without replacement
 - choice() picks one item, choices() picks multiple
 - shuffle() modifies the original list
 
+---
 ## 28. ⭐ Number Guessing Game 🔢
 **Implementation:**
 ```python
@@ -861,6 +961,7 @@ while is_running:
 - Provide helpful feedback (too high/low)
 - Check for out-of-range guesses
 
+---
 ## 29. ⭐ Rock, Paper, Scissors Game 🗿
 **Implementation:**
 ```python
@@ -900,6 +1001,7 @@ print("Thanks for playing!")
 - Check win conditions with logical operators
 - Allow players to play multiple rounds
 
+---
 ## 30. ⭐ Dice Roller Program ⚂
 **Implementation:**
 ```python
@@ -947,6 +1049,7 @@ while True:
 - Print dice art line by line for alignment
 - Calculate and display total sum
 
+---
 ## 31. Functions 📞
 **Basic Syntax:**
 ```python
@@ -977,6 +1080,7 @@ print_info("Alice", 25)
 - Functions promote code reusability
 - Use descriptive function names
 
+---
 ## 32. Default Arguments 👍
 **Syntax:**
 ```python
@@ -1001,6 +1105,7 @@ print(calculate_area(4, 6))     # Rectangle: 24
 - Allows function overloading-like behavior
 - Makes functions more flexible
 
+---
 ## 33. Keyword Arguments 🗝️
 **Syntax:**
 ```python
@@ -1024,6 +1129,7 @@ print(create_profile("Diana", 28, country="Australia"))
 - Positional args must come before keyword args
 - Useful for functions with many parameters
 
+---
 ## 34. *args & **kwargs 📦
 **Variable Arguments:**
 ```python
@@ -1053,6 +1159,7 @@ full_function("Bob", 1, 2, 3, age=30, city="LA")
 - Order: positional, *args, keyword, **kwargs
 - Useful for wrapper functions and APIs
 
+---
 ## 35. Iterables 🔂
 **Definition and Usage:**
 ```python
@@ -1092,6 +1199,7 @@ for num in Countdown(3):
 - StopIteration exception ends iteration
 - Lists, strings, dicts are built-in iterables
 
+---
 ## 36. Membership Operators 🔎
 **Operators:**
 ```python
@@ -1125,6 +1233,7 @@ print(15 in range(1, 10))       # False
 - For dicts, checks keys by default
 - Works with any iterable object
 
+---
 ## 37. List Comprehensions 📃
 **Syntax:**
 ```python
@@ -1155,6 +1264,7 @@ unique_lengths = {len(word) for word in words}
 - Works with dictionaries and sets too
 - Don't overuse - readability matters
 
+---
 ## 38. Match-Case Statements 📆
 **Syntax (Python 3.10+):**
 ```python
@@ -1197,6 +1307,7 @@ def categorize_number(x):
 - Supports pattern matching and guards
 - More powerful than traditional switch statements
 
+---
 ## 39. Modules 📨
 **Creating and Using Modules:**
 ```python
@@ -1231,6 +1342,7 @@ import os, sys
 - Use 'as' for aliases
 - Python has many built-in modules
 
+---
 ## 40. Scope Resolution 🔬
 **LEGB Rule:**
 ```python
@@ -1274,6 +1386,7 @@ def outer_func():
 - Variables are searched in LEGB order
 - Avoid global variables when possible
 
+---
 ## 41. if __name__ == '__main__': 📥
 **Purpose and Usage:**
 ```python
@@ -1303,6 +1416,7 @@ print(result)
 - Good practice for all Python modules
 - Enables module testing
 
+---
 ## 42. ⭐ Banking Program 💰
 **Implementation:**
 ```python
@@ -1361,6 +1475,7 @@ if __name__ == "__main__":
 - Use main() function for program flow
 - Keep running balance throughout session
 
+---
 ## 43. ⭐ Slot Machine 🎰
 **Implementation:**
 ```python
@@ -1430,6 +1545,7 @@ if __name__ == "__main__":
 - Deduct bet before spinning
 - Add payout to balance after winning
 
+---
 ## 44. ⭐ Encryption Program 🔐
 **Caesar Cipher Implementation:**
 ```python
@@ -1480,6 +1596,7 @@ if __name__ == "__main__":
 - Non-alphabetic characters remain unchanged
 - Decryption uses negative shift
 
+---
 ## 45. ⭐ Hangman Game 🕺
 **Implementation:**
 ```python
@@ -1564,6 +1681,7 @@ if __name__ == "__main__":
 - Use ASCII art for visual feedback
 - Check for win condition after each guess
 
+---
 ## 46. Python Object-Oriented Programming 🚗
 **Classes and Objects:**
 ```python
@@ -1601,6 +1719,7 @@ print(f"Odometer: {car1.odometer}")
 - Methods are functions defined inside classes
 - Objects are instances of classes
 
+---
 ## 47. Class Variables 🎓
 **Class vs Instance Variables:**
 ```python
@@ -1637,6 +1756,7 @@ print(Student.get_num_students()) # 2
 - @classmethod decorator for class methods
 - cls parameter refers to the class itself
 
+---
 ## 48. Inheritance 👨‍👦‍👦
 **Parent and Child Classes:**
 ```python
@@ -1684,6 +1804,7 @@ cat.meow()  # Child method
 - Child classes can add their own methods
 - Promotes code reusability
 
+---
 ## 49. Multiple Inheritance 🐟
 **Inheriting from Multiple Classes:**
 ```python
@@ -1731,6 +1852,7 @@ duck.fly()   # From Flyer
 - Can lead to diamond problem - be cautious
 - Consider composition over multiple inheritance
 
+---
 ## 50. super() 🔴
 **Using super() Function:**
 ```python
@@ -1775,6 +1897,7 @@ square.describe()
 - Essential for proper constructor chaining
 - Helps with method resolution in complex hierarchies
 
+---
 ## 51. Polymorphism 🎭
 **Same Interface, Different Implementation:**
 ```python
@@ -1838,6 +1961,7 @@ for shape in shapes:
 - @abstractmethod forces implementation in child classes
 - Powerful for building flexible systems
 
+---
 ## 52. Duck Typing 🦆
 **"If it looks like a duck and quacks like a duck, it's a duck":**
 ```python
@@ -1885,6 +2009,7 @@ make_it_walk_and_talk(person)   # Works
 - More flexible than static typing
 - "Easier to ask for forgiveness than permission"
 
+---
 ## 53. Static Methods ⚡
 **Methods that don't need self or cls:**
 ```python
@@ -1931,6 +2056,7 @@ print(employee.is_workday("Sunday"))  # False
 - Utility functions related to the class
 - Don't need instance to be created
 
+---
 ## 54. Class Methods 🏫
 **Methods that work with the class itself:**
 ```python
@@ -1983,6 +2109,7 @@ print(Person.get_population())  # 2
 - Often used for alternative constructors
 - Can be called on class or instance
 
+---
 ## 55. Magic Methods 🌟
 **Special Methods (Dunder Methods):**
 ```python
@@ -2042,6 +2169,7 @@ print(book1["title"])    # 1984
 - __repr__ for developer string representation
 - Enable operator overloading
 
+---
 ## 56. @property ⚙️
 **Getter, Setter, and Deleter:**
 ```python
@@ -2118,6 +2246,7 @@ print(temp.celsius)      # 30.0
 - Use underscore prefix for "private" attributes
 - Maintains clean interface while adding logic
 
+---
 ## 57. Decorators 🎊
 **Functions that modify other functions:**
 ```python
@@ -2176,6 +2305,7 @@ print(fibonacci(10))       # Uses caching for efficiency
 - Can stack multiple decorators
 - functools.wraps preserves original function metadata
 
+---
 ## 58. Exception Handling 🚦
 **Try, Except, Else, Finally:**
 ```python
@@ -2226,6 +2356,7 @@ except ValueError:
 - finally block always executes (cleanup code)
 - Create custom exceptions by inheriting from Exception
 
+---
 ## 59. File Detection 🕵️‍♂️
 **Checking if Files and Directories Exist:**
 ```python
@@ -2276,6 +2407,7 @@ if not os.path.exists(directory):
 - Always check existence before file operations
 - os.makedirs() creates directories recursively
 
+---
 ## 60. Writing Files ✍
 **Creating and Writing to Files:**
 ```python
@@ -2343,6 +2475,7 @@ safe_write_file("output.txt", "Sample content")
 - json.dump() for JSON files, csv.writer() for CSV files
 - Use newline='' parameter when writing CSV files
 
+---
 ## 61. Reading Files 🔍
 **Reading Different File Types:**
 ```python
@@ -2428,6 +2561,7 @@ content = read_with_encoding("example.txt")
 - Use appropriate encoding (utf-8 is common)
 - json.load() for JSON, csv.reader() for CSV files
 
+---
 ## 62. Dates & Times 📅
 **Working with datetime Module:**
 ```python
@@ -2492,6 +2626,7 @@ print(f"Execution time: {execution_time:.2f} seconds")
 - timedelta for date arithmetic
 - time.time() for measuring execution time
 
+---
 ## 63. ⭐ Alarm Clock ⏰
 **Implementation:**
 ```python
@@ -2628,6 +2763,7 @@ if __name__ == "__main__":
 - Consider using sound libraries for audio alerts
 - Implement graceful shutdown with keyboard interrupts
 
+---
 ## 64. Multithreading 🧵
 **Running Multiple Tasks Concurrently:**
 ```python
@@ -2803,6 +2939,7 @@ if __name__ == "__main__":
 - ThreadPoolExecutor for better thread management
 - GIL (Global Interpreter Lock) limits true parallelism in Python
 
+---
 ## 65. Request API Data ↩️
 **Making HTTP Requests:**
 ```python
@@ -3003,6 +3140,7 @@ if __name__ == "__main__":
 - Use params parameter for query parameters
 - Set timeouts to avoid hanging requests
 
+---
 ## 66. PyQt5 GUI Intro 🖥️
 **Creating Desktop Applications:**
 ```python
@@ -3155,6 +3293,7 @@ if __name__ == '__main__':
 - Connect signals to slots with .clicked.connect()
 - Always call sys.exit(app.exec_()) to run the event loop
 
+---
 ## 67. PyQt5 Labels 🏷️
 **Working with Text and Labels:**
 ```python
@@ -3344,6 +3483,7 @@ if __name__ == '__main__':
 - QTimer for updating labels dynamically
 - Rich text format supports HTML tags
 
+---
 ## 68. PyQt5 Images 📷
 **Displaying and Working with Images:**
 ```python
@@ -3567,6 +3707,7 @@ if __name__ == '__main__':
 - scaled() method for resizing images
 - transformed() method for rotating images
 
+---
 ## 69. PyQt5 Layout Managers 🧲
 **Organizing Widgets with Layouts:**
 ```python
@@ -3806,3 +3947,2328 @@ if __name__ == '__main__':
 - Use addStretch() to add flexible space
 - QSplitter creates resizable panes
 - Layouts can be nested for complex designs
+
+---
+## 70. PyQt5 Buttons 🛎️
+**Different Types of Buttons:**
+```python
+def create_checkbox_section(self):
+    """Create checkbox examples"""
+    group_box = QGroupBox("Checkboxes (Choose Multiple)")
+    layout = QVBoxLayout()
+    
+    # Create checkboxes
+    self.check1 = QCheckBox('Feature 1')
+    self.check2 = QCheckBox('Feature 2')
+    self.check3 = QCheckBox('Feature 3')
+    
+    # Connect signals
+    self.check1.stateChanged.connect(self.on_checkbox_changed)
+    self.check2.stateChanged.connect(self.on_checkbox_changed)
+    self.check3.stateChanged.connect(self.on_checkbox_changed)
+    
+    layout.addWidget(self.check1)
+    layout.addWidget(self.check2)
+    layout.addWidget(self.check3)
+    
+    # Button to get all checked items
+    get_checked_btn = QPushButton('Get Checked Items')
+    get_checked_btn.clicked.connect(self.get_checked_items)
+    layout.addWidget(get_checked_btn)
+    
+    group_box.setLayout(layout)
+    return group_box
+
+def on_basic_click(self):
+    self.status_label.setText('Status: Basic button clicked!')
+
+def on_styled_click(self):
+    QMessageBox.information(self, 'Styled Button', 'Styled button was clicked!')
+
+def on_counter_click(self):
+    self.click_count += 1
+    self.counter_btn.setText(f'Click me! (Clicked {self.click_count} times)')
+    self.status_label.setText(f'Status: Button clicked {self.click_count} times')
+```
+
+**Bullet Points to Remember:**
+• QPushButton for standard buttons, QRadioButton for single selection
+• QCheckBox for multiple selections, use QButtonGroup for grouping
+• Connect signals with .clicked.connect() for buttons
+• Use .stateChanged.connect() for checkboxes and radio buttons
+• Style buttons with setStyleSheet() for custom appearance
+
+---
+## 71. PyQt5 Checkboxes ✅
+**Multiple Selection Controls:**
+```python
+import sys
+from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout,
+                            QCheckBox, QLabel, QPushButton, QGroupBox, QMessageBox)
+from PyQt5.QtCore import Qt
+
+class CheckBoxDemo(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.initUI()
+    
+    def initUI(self):
+        self.setWindowTitle('PyQt5 Checkboxes Demo')
+        self.setGeometry(100, 100, 400, 500)
+        
+        main_layout = QVBoxLayout()
+        
+        # Basic checkboxes
+        basic_group = QGroupBox("Basic Checkboxes")
+        basic_layout = QVBoxLayout()
+        
+        self.checkbox1 = QCheckBox("Option 1")
+        self.checkbox2 = QCheckBox("Option 2") 
+        self.checkbox3 = QCheckBox("Option 3")
+        
+        # Set one as checked by default
+        self.checkbox1.setChecked(True)
+        
+        # Connect signals
+        self.checkbox1.stateChanged.connect(self.on_state_changed)
+        self.checkbox2.stateChanged.connect(self.on_state_changed)
+        self.checkbox3.stateChanged.connect(self.on_state_changed)
+        
+        basic_layout.addWidget(self.checkbox1)
+        basic_layout.addWidget(self.checkbox2)
+        basic_layout.addWidget(self.checkbox3)
+        basic_group.setLayout(basic_layout)
+        
+        # Tri-state checkbox
+        tristate_group = QGroupBox("Tri-State Checkbox")
+        tristate_layout = QVBoxLayout()
+        
+        self.tristate_cb = QCheckBox("Tri-state checkbox")
+        self.tristate_cb.setTristate(True)
+        self.tristate_cb.stateChanged.connect(self.on_tristate_changed)
+        
+        tristate_layout.addWidget(self.tristate_cb)
+        tristate_layout.addWidget(QLabel("States: Unchecked, Partially Checked, Checked"))
+        tristate_group.setLayout(tristate_layout)
+        
+        # Pizza toppings example
+        pizza_group = QGroupBox("Pizza Toppings")
+        pizza_layout = QVBoxLayout()
+        
+        self.toppings = {
+            'Pepperoni': QCheckBox('Pepperoni ($2.00)'),
+            'Mushrooms': QCheckBox('Mushrooms ($1.50)'),
+            'Extra Cheese': QCheckBox('Extra Cheese ($1.00)'),
+            'Olives': QCheckBox('Olives ($1.25)'),
+            'Peppers': QCheckBox('Peppers ($1.75)')
+        }
+        
+        for topping, checkbox in self.toppings.items():
+            checkbox.stateChanged.connect(self.calculate_total)
+            pizza_layout.addWidget(checkbox)
+        
+        self.total_label = QLabel("Total: $0.00")
+        self.total_label.setStyleSheet("font-weight: bold; font-size: 14px;")
+        pizza_layout.addWidget(self.total_label)
+        
+        pizza_group.setLayout(pizza_layout)
+        
+        # Control buttons
+        button_layout = QHBoxLayout()
+        
+        select_all_btn = QPushButton("Select All")
+        select_all_btn.clicked.connect(self.select_all)
+        
+        deselect_all_btn = QPushButton("Deselect All")
+        deselect_all_btn.clicked.connect(self.deselect_all)
+        
+        get_selected_btn = QPushButton("Get Selected")
+        get_selected_btn.clicked.connect(self.show_selected)
+        
+        button_layout.addWidget(select_all_btn)
+        button_layout.addWidget(deselect_all_btn)
+        button_layout.addWidget(get_selected_btn)
+        
+        # Status label
+        self.status_label = QLabel("Status: Ready")
+        
+        # Add all to main layout
+        main_layout.addWidget(basic_group)
+        main_layout.addWidget(tristate_group)
+        main_layout.addWidget(pizza_group)
+        main_layout.addLayout(button_layout)
+        main_layout.addWidget(self.status_label)
+        
+        self.setLayout(main_layout)
+    
+    def on_state_changed(self, state):
+        checkbox = self.sender()
+        status = "checked" if state == Qt.Checked else "unchecked"
+        self.status_label.setText(f"Status: {checkbox.text()} is {status}")
+    
+    def on_tristate_changed(self, state):
+        if state == Qt.Unchecked:
+            status = "Unchecked"
+        elif state == Qt.PartiallyChecked:
+            status = "Partially Checked"
+        else:
+            status = "Checked"
+        self.status_label.setText(f"Status: Tri-state is {status}")
+    
+    def calculate_total(self):
+        prices = {
+            'Pepperoni': 2.00,
+            'Mushrooms': 1.50,
+            'Extra Cheese': 1.00,
+            'Olives': 1.25,
+            'Peppers': 1.75
+        }
+        
+        total = 0
+        for topping, checkbox in self.toppings.items():
+            if checkbox.isChecked():
+                total += prices[topping]
+        
+        self.total_label.setText(f"Total: ${total:.2f}")
+    
+    def select_all(self):
+        checkboxes = [self.checkbox1, self.checkbox2, self.checkbox3]
+        for cb in checkboxes:
+            cb.setChecked(True)
+        
+        for cb in self.toppings.values():
+            cb.setChecked(True)
+    
+    def deselect_all(self):
+        checkboxes = [self.checkbox1, self.checkbox2, self.checkbox3]
+        for cb in checkboxes:
+            cb.setChecked(False)
+            
+        for cb in self.toppings.values():
+            cb.setChecked(False)
+    
+    def show_selected(self):
+        selected = []
+        
+        # Basic checkboxes
+        if self.checkbox1.isChecked():
+            selected.append("Option 1")
+        if self.checkbox2.isChecked():
+            selected.append("Option 2")
+        if self.checkbox3.isChecked():
+            selected.append("Option 3")
+            
+        # Toppings
+        for topping, checkbox in self.toppings.items():
+            if checkbox.isChecked():
+                selected.append(topping)
+        
+        if selected:
+            message = "Selected items:\n" + "\n".join(selected)
+        else:
+            message = "No items selected"
+            
+        QMessageBox.information(self, "Selected Items", message)
+
+def main():
+    app = QApplication(sys.argv)
+    window = CheckBoxDemo()
+    window.show()
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
+```
+
+**Bullet Points to Remember:**
+• QCheckBox allows multiple selections unlike radio buttons
+• Use .isChecked() to check state, .setChecked() to set state
+• setTristate(True) enables three states: unchecked, partially checked, checked
+• Qt.Checked, Qt.Unchecked, Qt.PartiallyChecked are the state constants
+• Connect stateChanged signal to respond to checkbox changes
+
+---
+## 72. PyQt5 Radio Buttons 🔘
+**Single Selection Controls:**
+```python
+import sys
+from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout,
+                            QRadioButton, QLabel, QPushButton, QGroupBox, 
+                            QButtonGroup, QMessageBox)
+from PyQt5.QtCore import Qt
+
+class RadioButtonDemo(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.initUI()
+    
+    def initUI(self):
+        self.setWindowTitle('PyQt5 Radio Buttons Demo')
+        self.setGeometry(100, 100, 500, 600)
+        
+        main_layout = QVBoxLayout()
+        
+        # Basic radio buttons
+        basic_group = QGroupBox("Basic Radio Buttons (Choose One)")
+        basic_layout = QVBoxLayout()
+        
+        self.radio1 = QRadioButton("Option A")
+        self.radio2 = QRadioButton("Option B")
+        self.radio3 = QRadioButton("Option C")
+        
+        # Set default selection
+        self.radio1.setChecked(True)
+        
+        # Connect signals
+        self.radio1.toggled.connect(self.on_radio_toggled)
+        self.radio2.toggled.connect(self.on_radio_toggled)
+        self.radio3.toggled.connect(self.on_radio_toggled)
+        
+        basic_layout.addWidget(self.radio1)
+        basic_layout.addWidget(self.radio2)
+        basic_layout.addWidget(self.radio3)
+        basic_group.setLayout(basic_layout)
+        
+        # Multiple groups example
+        self.create_survey_section()
+        
+        # Payment method example
+        payment_group = QGroupBox("Payment Method")
+        payment_layout = QVBoxLayout()
+        
+        self.payment_buttons = QButtonGroup()
+        
+        credit_card = QRadioButton("Credit Card")
+        debit_card = QRadioButton("Debit Card")
+        paypal = QRadioButton("PayPal")
+        cash = QRadioButton("Cash")
+        
+        # Add to button group
+        self.payment_buttons.addButton(credit_card, 1)
+        self.payment_buttons.addButton(debit_card, 2)
+        self.payment_buttons.addButton(paypal, 3)
+        self.payment_buttons.addButton(cash, 4)
+        
+        # Set default
+        credit_card.setChecked(True)
+        
+        # Connect group signal
+        self.payment_buttons.buttonClicked.connect(self.on_payment_changed)
+        
+        payment_layout.addWidget(credit_card)
+        payment_layout.addWidget(debit_card)
+        payment_layout.addWidget(paypal)
+        payment_layout.addWidget(cash)
+        payment_group.setLayout(payment_layout)
+        
+        # Control buttons
+        button_layout = QHBoxLayout()
+        
+        get_selection_btn = QPushButton("Get Selections")
+        get_selection_btn.clicked.connect(self.show_selections)
+        
+        clear_all_btn = QPushButton("Clear All")
+        clear_all_btn.clicked.connect(self.clear_all_selections)
+        
+        button_layout.addWidget(get_selection_btn)
+        button_layout.addWidget(clear_all_btn)
+        
+        # Status label
+        self.status_label = QLabel("Status: Ready")
+        
+        # Add all to main layout
+        main_layout.addWidget(basic_group)
+        main_layout.addWidget(self.survey_widget)
+        main_layout.addWidget(payment_group)
+        main_layout.addLayout(button_layout)
+        main_layout.addWidget(self.status_label)
+        
+        self.setLayout(main_layout)
+    
+    def create_survey_section(self):
+        """Create multiple radio button groups for a survey"""
+        self.survey_widget = QGroupBox("Customer Survey")
+        survey_layout = QVBoxLayout()
+        
+        # Age group
+        age_label = QLabel("Age Group:")
+        age_label.setStyleSheet("font-weight: bold;")
+        
+        self.age_group = QButtonGroup()
+        age_18_25 = QRadioButton("18-25")
+        age_26_35 = QRadioButton("26-35")
+        age_36_50 = QRadioButton("36-50")
+        age_51_plus = QRadioButton("51+")
+        
+        self.age_group.addButton(age_18_25, 1)
+        self.age_group.addButton(age_26_35, 2)
+        self.age_group.addButton(age_36_50, 3)
+        self.age_group.addButton(age_51_plus, 4)
+        
+        # Satisfaction level
+        satisfaction_label = QLabel("Satisfaction Level:")
+        satisfaction_label.setStyleSheet("font-weight: bold;")
+        
+        self.satisfaction_group = QButtonGroup()
+        very_satisfied = QRadioButton("Very Satisfied")
+        satisfied = QRadioButton("Satisfied")
+        neutral = QRadioButton("Neutral")
+        dissatisfied = QRadioButton("Dissatisfied")
+        
+        self.satisfaction_group.addButton(very_satisfied, 1)
+        self.satisfaction_group.addButton(satisfied, 2)
+        self.satisfaction_group.addButton(neutral, 3)
+        self.satisfaction_group.addButton(dissatisfied, 4)
+        
+        # Set defaults
+        age_26_35.setChecked(True)
+        satisfied.setChecked(True)
+        
+        # Add to layout
+        survey_layout.addWidget(age_label)
+        survey_layout.addWidget(age_18_25)
+        survey_layout.addWidget(age_26_35)
+        survey_layout.addWidget(age_36_50)
+        survey_layout.addWidget(age_51_plus)
+        
+        survey_layout.addWidget(satisfaction_label)
+        survey_layout.addWidget(very_satisfied)
+        survey_layout.addWidget(satisfied)
+        survey_layout.addWidget(neutral)
+        survey_layout.addWidget(dissatisfied)
+        
+        self.survey_widget.setLayout(survey_layout)
+    
+    def on_radio_toggled(self, checked):
+        if checked:  # Only respond to the button being checked, not unchecked
+            radio_button = self.sender()
+            self.status_label.setText(f"Status: Selected {radio_button.text()}")
+    
+    def on_payment_changed(self, button):
+        self.status_label.setText(f"Status: Payment method changed to {button.text()}")
+    
+    def show_selections(self):
+        selections = []
+        
+        # Basic radio buttons
+        if self.radio1.isChecked():
+            selections.append("Basic: Option A")
+        elif self.radio2.isChecked():
+            selections.append("Basic: Option B")
+        elif self.radio3.isChecked():
+            selections.append("Basic: Option C")
+        
+        # Age group
+        age_button = self.age_group.checkedButton()
+        if age_button:
+            selections.append(f"Age: {age_button.text()}")
+        
+        # Satisfaction
+        satisfaction_button = self.satisfaction_group.checkedButton()
+        if satisfaction_button:
+            selections.append(f"Satisfaction: {satisfaction_button.text()}")
+        
+        # Payment method
+        payment_button = self.payment_buttons.checkedButton()
+        if payment_button:
+            selections.append(f"Payment: {payment_button.text()}")
+        
+        message = "Current Selections:\n" + "\n".join(selections)
+        QMessageBox.information(self, "Current Selections", message)
+    
+    def clear_all_selections(self):
+        # Clear basic radio buttons
+        self.radio1.setAutoExclusive(False)
+        self.radio2.setAutoExclusive(False)
+        self.radio3.setAutoExclusive(False)
+        
+        self.radio1.setChecked(False)
+        self.radio2.setChecked(False)
+        self.radio3.setChecked(False)
+        
+        self.radio1.setAutoExclusive(True)
+        self.radio2.setAutoExclusive(True)
+        self.radio3.setAutoExclusive(True)
+        
+        # Clear button groups
+        if self.age_group.checkedButton():
+            self.age_group.setExclusive(False)
+            self.age_group.checkedButton().setChecked(False)
+            self.age_group.setExclusive(True)
+        
+        if self.satisfaction_group.checkedButton():
+            self.satisfaction_group.setExclusive(False)
+            self.satisfaction_group.checkedButton().setChecked(False)
+            self.satisfaction_group.setExclusive(True)
+        
+        if self.payment_buttons.checkedButton():
+            self.payment_buttons.setExclusive(False)
+            self.payment_buttons.checkedButton().setChecked(False)
+            self.payment_buttons.setExclusive(True)
+        
+        self.status_label.setText("Status: All selections cleared")
+
+def main():
+    app = QApplication(sys.argv)
+    window = RadioButtonDemo()
+    window.show()
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
+```
+
+**Bullet Points to Remember:**
+• QRadioButton allows only one selection per group
+• Use QButtonGroup to manage multiple radio button groups
+• Radio buttons are automatically exclusive within the same parent
+• Use .toggled signal and check if 'checked' is True to avoid double events
+• .checkedButton() returns the selected button in a QButtonGroup
+
+---
+## 73. PyQt5 Line Edits 💬
+**Text Input Controls:**
+```python
+import sys
+from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout,
+                            QLineEdit, QLabel, QPushButton, QGroupBox, 
+                            QMessageBox, QCompleter)
+from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QValidator, QIntValidator, QDoubleValidator, QRegExpValidator
+import re
+
+class LineEditDemo(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.initUI()
+    
+    def initUI(self):
+        self.setWindowTitle('PyQt5 Line Edits Demo')
+        self.setGeometry(100, 100, 500, 700)
+        
+        main_layout = QVBoxLayout()
+        
+        # Basic line edits
+        basic_group = QGroupBox("Basic Line Edits")
+        basic_layout = QVBoxLayout()
+        
+        # Standard text input
+        basic_layout.addWidget(QLabel("Standard Text Input:"))
+        self.standard_edit = QLineEdit()
+        self.standard_edit.setPlaceholderText("Enter any text here...")
+        self.standard_edit.textChanged.connect(self.on_text_changed)
+        basic_layout.addWidget(self.standard_edit)
+        
+        # Password input
+        basic_layout.addWidget(QLabel("Password Input:"))
+        self.password_edit = QLineEdit()
+        self.password_edit.setEchoMode(QLineEdit.Password)
+        self.password_edit.setPlaceholderText("Enter password...")
+        basic_layout.addWidget(self.password_edit)
+        
+        # Read-only input
+        basic_layout.addWidget(QLabel("Read-only Input:"))
+        self.readonly_edit = QLineEdit("This is read-only text")
+        self.readonly_edit.setReadOnly(True)
+        basic_layout.addWidget(self.readonly_edit)
+        
+        basic_group.setLayout(basic_layout)
+        
+        # Validated inputs
+        validation_group = QGroupBox("Validated Inputs")
+        validation_layout = QVBoxLayout()
+        
+        # Integer only
+        validation_layout.addWidget(QLabel("Integer Only (1-100):"))
+        self.int_edit = QLineEdit()
+        int_validator = QIntValidator(1, 100)
+        self.int_edit.setValidator(int_validator)
+        self.int_edit.setPlaceholderText("Enter number between 1 and 100")
+        validation_layout.addWidget(self.int_edit)
+        
+        # Double/Float only
+        validation_layout.addWidget(QLabel("Decimal Numbers:"))
+        self.double_edit = QLineEdit()
+        double_validator = QDoubleValidator(0.00, 999.99, 2)
+        self.double_edit.setValidator(double_validator)
+        self.double_edit.setPlaceholderText("Enter decimal (0.00 - 999.99)")
+        validation_layout.addWidget(self.double_edit)
+        
+        # Email validation
+        validation_layout.addWidget(QLabel("Email Address:"))
+        self.email_edit = QLineEdit()
+        email_regex = QRegExpValidator()
+        email_regex.setRegExp(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
+        self.email_edit.setValidator(email_regex)
+        self.email_edit.setPlaceholderText("Enter email address")
+        validation_layout.addWidget(self.email_edit)
+        
+        validation_group.setLayout(validation_layout)
+        
+        # Auto-completion
+        completion_group = QGroupBox("Auto-completion")
+        completion_layout = QVBoxLayout()
+        
+        completion_layout.addWidget(QLabel("Country (with auto-completion):"))
+        self.country_edit = QLineEdit()
+        countries = ["Afghanistan", "Albania", "Algeria", "Australia", "Austria",
+                    "Bangladesh", "Belgium", "Brazil", "Canada", "China",
+                    "Denmark", "Egypt", "France", "Germany", "India",
+                    "Japan", "Mexico", "Netherlands", "Norway", "Pakistan",
+                    "Russia", "Spain", "Sweden", "United Kingdom", "United States"]
+        
+        completer = QCompleter(countries)
+        completer.setCaseSensitivity(Qt.CaseInsensitive)
+        self.country_edit.setCompleter(completer)
+        self.country_edit.setPlaceholderText("Start typing country name...")
+        completion_layout.addWidget(self.country_edit)
+        
+        completion_group.setLayout(completion_layout)
+        
+        # Input length limits
+        limits_group = QGroupBox("Input Limits")
+        limits_layout = QVBoxLayout()
+        
+        limits_layout.addWidget(QLabel("Max 10 characters:"))
+        self.limited_edit = QLineEdit()
+        self.limited_edit.setMaxLength(10)
+        self.limited_edit.setPlaceholderText("Max 10 chars")
+        self.limited_edit.textChanged.connect(self.show_char_count)
+        limits_layout.addWidget(self.limited_edit)
+        
+        self.char_count_label = QLabel("Characters: 0/10")
+        limits_layout.addWidget(self.char_count_label)
+        
+        limits_group.setLayout(limits_layout)
+        
+        # Form example
+        form_group = QGroupBox("Registration Form")
+        form_layout = QVBoxLayout()
+        
+        # Name fields
+        name_layout = QHBoxLayout()
+        name_layout.addWidget(QLabel("First Name:"))
+        self.first_name_edit = QLineEdit()
+        self.first_name_edit.setPlaceholderText("First name")
+        name_layout.addWidget(self.first_name_edit)
+        
+        name_layout.addWidget(QLabel("Last Name:"))
+        self.last_name_edit = QLineEdit()
+        self.last_name_edit.setPlaceholderText("Last name")
+        name_layout.addWidget(self.last_name_edit)
+        form_layout.addLayout(name_layout)
+        
+        # Phone number
+        form_layout.addWidget(QLabel("Phone Number:"))
+        self.phone_edit = QLineEdit()
+        phone_validator = QRegExpValidator()
+        phone_validator.setRegExp(r"^\+?[\d\s\-\(\)]{10,15}$")
+        self.phone_edit.setValidator(phone_validator)
+        self.phone_edit.setPlaceholderText("+1 (555) 123-4567")
+        form_layout.addWidget(self.phone_edit)
+        
+        form_group.setLayout(form_layout)
+        
+        # Action buttons
+        button_layout = QHBoxLayout()
+        
+        get_values_btn = QPushButton("Get All Values")
+        get_values_btn.clicked.connect(self.show_all_values)
+        
+        clear_all_btn = QPushButton("Clear All")
+        clear_all_btn.clicked.connect(self.clear_all_fields)
+        
+        validate_btn = QPushButton("Validate Form")
+        validate_btn.clicked.connect(self.validate_form)
+        
+        button_layout.addWidget(get_values_btn)
+        button_layout.addWidget(clear_all_btn)
+        button_layout.addWidget(validate_btn)
+        
+        # Status label
+        self.status_label = QLabel("Status: Ready")
+        
+        # Add all to main layout
+        main_layout.addWidget(basic_group)
+        main_layout.addWidget(validation_group)
+        main_layout.addWidget(completion_group)
+        main_layout.addWidget(limits_group)
+        main_layout.addWidget(form_group)
+        main_layout.addLayout(button_layout)
+        main_layout.addWidget(self.status_label)
+        
+        self.setLayout(main_layout)
+    
+    def on_text_changed(self, text):
+        self.status_label.setText(f"Status: Text changed to '{text}'")
+    
+    def show_char_count(self, text):
+        count = len(text)
+        max_length = self.limited_edit.maxLength()
+        self.char_count_label.setText(f"Characters: {count}/{max_length}")
+    
+    def show_all_values(self):
+        values = []
+        values.append(f"Standard Text: '{self.standard_edit.text()}'")
+        values.append(f"Password: {'*' * len(self.password_edit.text())}")
+        values.append(f"Integer: '{self.int_edit.text()}'")
+        values.append(f"Decimal: '{self.double_edit.text()}'")
+        values.append(f"Email: '{self.email_edit.text()}'")
+        values.append(f"Country: '{self.country_edit.text()}'")
+        values.append(f"Limited Text: '{self.limited_edit.text()}'")
+        values.append(f"First Name: '{self.first_name_edit.text()}'")
+        values.append(f"Last Name: '{self.last_name_edit.text()}'")
+        values.append(f"Phone: '{self.phone_edit.text()}'")
+        
+        message = "Current Values:\n" + "\n".join(values)
+        QMessageBox.information(self, "All Values", message)
+    
+    def clear_all_fields(self):
+        line_edits = [
+            self.standard_edit, self.password_edit, self.int_edit,
+            self.double_edit, self.email_edit, self.country_edit,
+            self.limited_edit, self.first_name_edit, self.last_name_edit,
+            self.phone_edit
+        ]
+        
+        for edit in line_edits:
+            if not edit.isReadOnly():
+                edit.clear()
+        
+        self.status_label.setText("Status: All fields cleared")
+    
+    def validate_form(self):
+        errors = []
+        
+        # Check required fields
+        if not self.first_name_edit.text().strip():
+            errors.append("First name is required")
+        
+        if not self.last_name_edit.text().strip():
+            errors.append("Last name is required")
+        
+        # Validate email format
+        email_text = self.email_edit.text()
+        if email_text and not re.match(r"[^@]+@[^@]+\.[^@]+", email_text):
+            errors.append("Invalid email format")
+        
+        # Check integer range
+        int_text = self.int_edit.text()
+        if int_text:
+            try:
+                value = int(int_text)
+                if not (1 <= value <= 100):
+                    errors.append("Integer must be between 1 and 100")
+            except ValueError:
+                errors.append("Invalid integer format")
+        
+        if errors:
+            QMessageBox.warning(self, "Validation Errors", "\n".join(errors))
+        else:
+            QMessageBox.information(self, "Validation", "All fields are valid!")
+
+def main():
+    app = QApplication(sys.argv)
+    window = LineEditDemo()
+    window.show()
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
+```
+
+**Bullet Points to Remember:**
+• QLineEdit for single-line text input, use setPlaceholderText() for hints
+• setEchoMode() for password fields (QLineEdit.Password)
+• Use validators (QIntValidator, QDoubleValidator, QRegExpValidator) for input validation
+• QCompleter provides auto-completion functionality
+• setMaxLength() limits input characters, setReadOnly(True) prevents editing
+
+---
+## 74. PyQt5 CSS Styles 🎨
+**Styling GUI Applications:**
+```python
+import sys
+from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout,
+                            QPushButton, QLabel, QLineEdit, QTextEdit, QFrame,
+                            QGroupBox, QSlider, QProgressBar)
+from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QFont
+
+class CSSStylesDemo(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.initUI()
+    
+    def initUI(self):
+        self.setWindowTitle('PyQt5 CSS Styles Demo')
+        self.setGeometry(100, 100, 800, 700)
+        
+        # Set application-wide stylesheet
+        self.setStyleSheet("""
+            QWidget {
+                font-family: 'Segoe UI', Arial, sans-serif;
+                font-size: 12px;
+            }
+            QGroupBox {
+                font-weight: bold;
+                border: 2px solid #cccccc;
+                border-radius: 10px;
+                margin-top: 1ex;
+                padding-top: 10px;
+            }
+            QGroupBox::title {
+                subcontrol-origin: margin;
+                left: 10px;
+                padding: 0 5px 0 5px;
+            }
+        """)
+        
+        main_layout = QVBoxLayout()
+        
+        # Basic styling examples
+        basic_group = QGroupBox("Basic Styling")
+        basic_layout = QVBoxLayout()
+        
+        # Styled buttons
+        modern_btn = QPushButton("Modern Button")
+        modern_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #4CAF50;
+                border: none;
+                color: white;
+                padding: 12px 24px;
+                text-align: center;
+                font-size: 14px;
+                font-weight: bold;
+                border-radius: 8px;
+            }
+            QPushButton:hover {
+                background-color: #45a049;
+                transform: translateY(-1px);
+            }
+            QPushButton:pressed {
+                background-color: #3d8b40;
+                transform: translateY(1px);
+            }
+        """)
+        
+        gradient_btn = QPushButton("Gradient Button")
+        gradient_btn.setStyleSheet("""
+            QPushButton {
+                background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                    stop:0 #667eea, stop:1 #764ba2);
+                border: none;
+                color: white;
+                padding: 12px 24px;
+                font-size: 14px;
+                font-weight: bold;
+                border-radius: 25px;
+            }
+            QPushButton:hover {
+                background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                    stop:0 #764ba2, stop:1 #667eea);
+            }
+        """)
+        
+        outline_btn = QPushButton("Outline Button")
+        outline_btn.setStyleSheet("""
+            QPushButton {
+                background-color: transparent;
+                border: 2px solid #007bff;
+                color: #007bff;
+                padding: 10px 20px;
+                font-size: 14px;
+                font-weight: bold;
+                border-radius: 5px;
+            }
+            QPushButton:hover {
+                background-color: #007bff;
+                color: white;
+            }
+        """)
+        
+        basic_layout.addWidget(modern_btn)
+        basic_layout.addWidget(gradient_btn)
+        basic_layout.addWidget(outline_btn)
+        basic_group.setLayout(basic_layout)
+        
+        # Input styling
+        input_group = QGroupBox("Styled Inputs")
+        input_layout = QVBoxLayout()
+        
+        # Modern text input
+        modern_input = QLineEdit()
+        modern_input.setPlaceholderText("Modern styled input...")
+        modern_input.setStyleSheet("""
+            QLineEdit {
+                border: 2px solid #ddd;
+                border-radius: 10px;
+                padding: 12px;
+                font-size: 14px;
+                background-color: #f9f9f9;
+            }
+            QLineEdit:focus {
+                border-color: #4CAF50;
+                background-color: white;
+                outline: none;
+            }
+        """)
+        
+        # Search input
+        search_input = QLineEdit()
+        search_input.setPlaceholderText("🔍 Search...")
+        search_input.setStyleSheet("""
+            QLineEdit {
+                border: 1px solid #ccc;
+                border-radius: 20px;
+                padding: 8px 15px;
+                font-size: 14px;
+                background-color: #f8f9fa;
+            }
+            QLineEdit:focus {
+                border-color: #007bff;
+                box-shadow: 0 0 0 3px rgba(0,123,255,0.25);
+            }
+        """)
+        
+        # Styled text area
+        text_area = QTextEdit()
+        text_area.setPlaceholderText("Enter your message here...")
+        text_area.setMaximumHeight(100)
+        text_area.setStyleSheet("""
+            QTextEdit {
+                border: 2px solid #e1e5e9;
+                border-radius: 8px;
+                padding: 10px;
+                font-size: 14px;
+                background-color: white;
+            }
+            QTextEdit:focus {
+                border-color: #80bdff;
+                outline: 0;
+                box-shadow: 0 0 0 0.2rem rgba(0,123,255,0.25);
+            }
+        """)
+        
+        input_layout.addWidget(modern_input)
+        input_layout.addWidget(search_input)
+        input_layout.addWidget(text_area)
+        input_group.setLayout(input_layout)
+        
+        # Label styling
+        label_group = QGroupBox("Styled Labels")
+        label_layout = QVBoxLayout()
+        
+        title_label = QLabel("Main Title")
+        title_label.setStyleSheet("""
+            QLabel {
+                font-size: 24px;
+                font-weight: bold;
+                color: #2c3e50;
+                padding: 10px 0;
+            }
+        """)
+        
+        subtitle_label = QLabel("Subtitle with accent")
+        subtitle_label.setStyleSheet("""
+            QLabel {
+                font-size: 16px;
+                color: #7f8c8d;
+                font-style: italic;
+                border-left: 4px solid #3498db;
+                padding-left: 15px;
+                margin: 10px 0;
+            }
+        """)
+        
+        badge_label = QLabel("NEW")
+        badge_label.setStyleSheet("""
+            QLabel {
+                background-color: #e74c3c;
+                color: white;
+                padding: 4px 12px;
+                border-radius: 12px;
+                font-size: 12px;
+                font-weight: bold;
+            }
+        """)
+        badge_label.setMaximumWidth(50)
+        
+        label_layout.addWidget(title_label)
+        label_layout.addWidget(subtitle_label)
+        label_layout.addWidget(badge_label)
+        label_group.setLayout(label_layout)
+        
+        # Advanced styling
+        advanced_group = QGroupBox("Advanced Styling")
+        advanced_layout = QVBoxLayout()
+        
+        # Card-like container
+        card = QFrame()
+        card.setStyleSheet("""
+            QFrame {
+                background-color: white;
+                border-radius: 10px;
+                border: 1px solid #e0e0e0;
+                padding: 20px;
+                margin: 10px;
+            }
+        """)
+        card_layout = QVBoxLayout()
+        
+        card_title = QLabel("Card Title")
+        card_title.setStyleSheet("""
+            QLabel {
+                font-size: 18px;
+                font-weight: bold;
+                color: #333;
+                margin-bottom: 10px;
+            }
+        """)
+        
+        card_content = QLabel("This is card content with some description text.")
+        card_content.setStyleSheet("""
+            QLabel {
+                color: #666;
+                line-height: 1.5;
+            }
+        """)
+        card_content.setWordWrap(True)
+        
+        card_layout.addWidget(card_title)
+        card_layout.addWidget(card_content)
+        card.setLayout(card_layout)
+        
+        # Progress bar styling
+        progress = QProgressBar()
+        progress.setValue(65)
+        progress.setStyleSheet("""
+            QProgressBar {
+                border: 2px solid #bdc3c7;
+                border-radius: 10px;
+                text-align: center;
+                font-weight: bold;
+                color: white;
+            }
+            QProgressBar::chunk {
+                background-color: qlineargradient(x1:0, y1:0, x2:1, y2:0,
+                    stop:0 #3498db, stop:1 #2980b9);
+                border-radius: 8px;
+                margin: 2px;
+            }
+        """)
+        
+        # Slider styling
+        slider = QSlider(Qt.Horizontal)
+        slider.setValue(50)
+        slider.setStyleSheet("""
+            QSlider::groove:horizontal {
+                border: 1px solid #bbb;
+                background: white;
+                height: 10px;
+                border-radius: 4px;
+            }
+            QSlider::sub-page:horizontal {
+                background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                    stop: 0 #66e, stop: 1 #bbf);
+                background: qlineargradient(x1: 0, y1: 0.2, x2: 1, y2: 1,
+                    stop: 0 #bbf, stop: 1 #55f);
+                border: 1px solid #777;
+                height: 10px;
+                border-radius: 4px;
+            }
+            QSlider::add-page:horizontal {
+                background: #fff;
+                border: 1px solid #777;
+                height: 10px;
+                border-radius: 4px;
+            }
+            QSlider::handle:horizontal {
+                background: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                    stop:0 #eee, stop:1 #ccc);
+                border: 1px solid #777;
+                width: 18px;
+                margin-top: -2px;
+                margin-bottom: -2px;
+                border-radius: 3px;
+            }
+            QSlider::handle:horizontal:hover {
+                background: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                    stop:0 #fff, stop:1 #ddd);
+                border: 1px solid #444;
+                border-radius: 4px;
+            }
+        """)
+        
+        advanced_layout.addWidget(card)
+        advanced_layout.addWidget(QLabel("Progress Bar:"))
+        advanced_layout.addWidget(progress)
+        advanced_layout.addWidget(QLabel("Slider:"))
+        advanced_layout.addWidget(slider)
+        advanced_group.setLayout(advanced_layout)
+        
+        # Theme switcher
+        theme_group = QGroupBox("Theme Switcher")
+        theme_layout = QHBoxLayout()
+        
+        light_theme_btn = QPushButton("Light Theme")
+        light_theme_btn.clicked.connect(self.apply_light_theme)
+        
+        dark_theme_btn = QPushButton("Dark Theme")
+        dark_theme_btn.clicked.connect(self.apply_dark_theme)
+        
+        theme_layout.addWidget(light_theme_btn)
+        theme_layout.addWidget(dark_theme_btn)
+        theme_group.setLayout(theme_layout)
+        
+        # Add all groups to main layout
+        main_layout.addWidget(basic_group)
+        main_layout.addWidget(input_group)
+        main_layout.addWidget(label_group)
+        main_layout.addWidget(advanced_group)
+        main_layout.addWidget(theme_group)
+        
+        self.setLayout(main_layout)
+    
+    def apply_light_theme(self):
+        self.setStyleSheet("""
+            QWidget {
+                background-color: #ffffff;
+                color: #333333;
+                font-family: 'Segoe UI', Arial, sans-serif;
+            }
+            QPushButton {
+                background-color: #f8f9fa;
+                border: 1px solid #dee2e6;
+                padding: 8px 16px;
+                border-radius: 4px;
+            }
+            QPushButton:hover {
+                background-color: #e9ecef;
+            }
+            QGroupBox {
+                font-weight: bold;
+                border: 2px solid #dee2e6;
+                border-radius: 8px;
+                margin-top: 1ex;
+                padding-top: 10px;
+                background-color: #f8f9fa;
+            }
+        """)
+    
+    def apply_dark_theme(self):
+        self.setStyleSheet("""
+            QWidget {
+                background-color: #2b2b2b;
+                color: #ffffff;
+                font-family: 'Segoe UI', Arial, sans-serif;
+            }
+            QPushButton {
+                background-color: #404040;
+                border: 1px solid #555555;
+                color: white;
+                padding: 8px 16px;
+                border-radius: 4px;
+            }
+            QPushButton:hover {
+                background-color: #505050;
+            }
+            QGroupBox {
+                font-weight: bold;
+                border: 2px solid #555555;
+                border-radius: 8px;
+                margin-top: 1ex;
+                padding-top: 10px;
+                background-color: #353535;
+                color: white;
+            }
+            QLineEdit {
+                background-color: #404040;
+                border: 1px solid #555555;
+                color: white;
+                padding: 8px;
+                border-radius: 4px;
+            }
+            QTextEdit {
+                background-color: #404040;
+                border: 1px solid #555555;
+                color: white;
+            }
+        """)
+
+def main():
+    app = QApplication(sys.argv)
+    window = CSSStylesDemo()
+    window.show()
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
+```
+
+**Bullet Points to Remember:**
+• Use setStyleSheet() to apply CSS-like styling to PyQt5 widgets
+• Pseudo-selectors like :hover, :pressed, :focus add interactivity
+• Use qlineargradient() for gradient backgrounds
+• Border-radius creates rounded corners, padding adds internal spacing
+• Combine multiple selectors for complex styling themes
+
+---
+## 75. ⭐ Digital Clock Program 🕒
+**Real-time Clock Display:**
+```python
+import sys
+import datetime
+from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushButton, QHBoxLayout
+from PyQt5.QtCore import QTimer, Qt
+from PyQt5.QtGui import QFont, QPalette
+
+class DigitalClock(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.is_24_hour = True
+        self.show_seconds = True
+        self.show_date = True
+        self.initUI()
+        self.start_clock()
+    
+    def initUI(self):
+        self.setWindowTitle('Digital Clock')
+        self.setGeometry(200, 200, 600, 300)
+        
+        # Main layout
+        main_layout = QVBoxLayout()
+        
+        # Time display
+        self.time_label = QLabel()
+        self.time_label.setAlignment(Qt.AlignCenter)
+        self.time_label.setStyleSheet("""
+            QLabel {
+                font-family: 'Courier New', monospace;
+                font-size: 48px;
+                font-weight: bold;
+                color: #00ff00;
+                background-color: #000000;
+                border: 3px solid #333333;
+                border-radius: 15px;
+                padding: 20px;
+            }
+        """)
+        
+        # Date display
+        self.date_label = QLabel()
+        self.date_label.setAlignment(Qt.AlignCenter)
+        self.date_label.setStyleSheet("""
+            QLabel {
+                font-family: 'Arial', sans-serif;
+                font-size: 18px;
+                color: #ffffff;
+                background-color: #333333;
+                border-radius: 10px;
+                padding: 10px;
+                margin-top: 10px;
+            }
+        """)
+        
+        # Control buttons
+        button_layout = QHBoxLayout()
+        
+        self.format_btn = QPushButton("12/24 Hour")
+        self.format_btn.clicked.connect(self.toggle_format)
+        
+        self.seconds_btn = QPushButton("Show/Hide Seconds")
+        self.seconds_btn.clicked.connect(self.toggle_seconds)
+        
+        self.date_btn = QPushButton("Show/Hide Date")
+        self.date_btn.clicked.connect(self.toggle_date)
+        
+        color_btn = QPushButton("Change Color")
+        color_btn.clicked.connect(self.change_color)
+        
+        # Style buttons
+        button_style = """
+            QPushButton {
+                background-color: #4CAF50;
+                border: none;
+                color: white;
+                padding: 10px 20px;
+                font-size: 14px;
+                border-radius: 5px;
+                margin: 5px;
+            }
+            QPushButton:hover {
+                background-color: #45a049;
+            }
+            QPushButton:pressed {
+                background-color: #3d8b40;
+            }
+        """
+        
+        self.format_btn.setStyleSheet(button_style)
+        self.seconds_btn.setStyleSheet(button_style)
+        self.date_btn.setStyleSheet(button_style)
+        color_btn.setStyleSheet(button_style)
+        
+        button_layout.addWidget(self.format_btn)
+        button_layout.addWidget(self.seconds_btn)
+        button_layout.addWidget(self.date_btn)
+        button_layout.addWidget(color_btn)
+        
+        # Add to main layout
+        main_layout.addWidget(self.time_label)
+        if self.show_date:
+            main_layout.addWidget(self.date_label)
+        main_layout.addLayout(button_layout)
+        
+        # Set dark background
+        self.setStyleSheet("""
+            QWidget {
+                background-color: #1a1a1a;
+            }
+        """)
+        
+        self.setLayout(main_layout)
+    
+    def start_clock(self):
+        # Create timer that updates every second
+        self.timer = QTimer()
+        self.timer.timeout.connect(self.update_time)
+        self.timer.start(1000)  # Update every 1000ms (1 second)
+        
+        # Update immediately
+        self.update_time()
+    
+    def update_time(self):
+        current_time = datetime.datetime.now()
+        
+        # Format time based on settings
+        if self.is_24_hour:
+            if self.show_seconds:
+                time_format = "%H:%M:%S"
+            else:
+                time_format = "%H:%M"
+        else:
+            if self.show_seconds:
+                time_format = "%I:%M:%S %p"
+            else:
+                time_format = "%I:%M %p"
+        
+        time_string = current_time.strftime(time_format)
+        self.time_label.setText(time_string)
+        
+        # Update date if shown
+        if self.show_date:
+            date_string = current_time.strftime("%A, %B %d, %Y")
+            self.date_label.setText(date_string)
+    
+    def toggle_format(self):
+        self.is_24_hour = not self.is_24_hour
+        self.update_time()
+    
+    def toggle_seconds(self):
+        self.show_seconds = not self.show_seconds
+        self.update_time()
+    
+    def toggle_date(self):
+        self.show_date = not self.show_date
+        if self.show_date:
+            self.layout().addWidget(self.date_label)
+            self.date_label.show()
+        else:
+            self.date_label.hide()
+        self.update_time()
+    
+    def change_color(self):
+        # Cycle through different color themes
+        colors = [
+            ("#00ff00", "#000000"),  # Green on black
+            ("#ff0000", "#000000"),  # Red on black
+            ("#0080ff", "#000000"),  # Blue on black
+            ("#ffff00", "#000000"),  # Yellow on black
+            ("#ff00ff", "#000000"),  # Magenta on black
+            ("#00ffff", "#000000"),  # Cyan on black
+            ("#ffffff", "#000000"),  # White on black
+        ]
+        
+        if not hasattr(self, 'color_index'):
+            self.color_index = 0
+        
+        self.color_index = (self.color_index + 1) % len(colors)
+        text_color, bg_color = colors[self.color_index]
+        
+        self.time_label.setStyleSheet(f"""
+            QLabel {{
+                font-family: 'Courier New', monospace;
+                font-size: 48px;
+                font-weight: bold;
+                color: {text_color};
+                background-color: {bg_color};
+                border: 3px solid #333333;
+                border-radius: 15px;
+                padding: 20px;
+            }}
+        """)
+
+# Analog Clock Version (Bonus)
+from PyQt5.QtGui import QPainter, QPen, QPolygon
+from PyQt5.QtCore import QPoint
+import math
+
+class AnalogClock(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.initUI()
+        self.start_clock()
+    
+    def initUI(self):
+        self.setWindowTitle('Analog Clock')
+        self.setGeometry(300, 300, 400, 400)
+        self.setStyleSheet("background-color: white;")
+    
+    def start_clock(self):
+        self.timer = QTimer()
+        self.timer.timeout.connect(self.update)
+        self.timer.start(1000)
+    
+    def paintEvent(self, event):
+        painter = QPainter(self)
+        painter.setRenderHint(QPainter.Antialiasing)
+        
+        # Get current time
+        current_time = datetime.datetime.now()
+        hour = current_time.hour % 12
+        minute = current_time.minute
+        second = current_time.second
+        
+        # Clock center and radius
+        center = QPoint(self.width() // 2, self.height() // 2)
+        radius = min(self.width(), self.height()) // 2 - 20
+        
+        # Draw clock face
+        painter.setPen(QPen(Qt.black, 2))
+        painter.drawEllipse(center, radius, radius)
+        
+        # Draw hour marks
+        painter.setPen(QPen(Qt.black, 3))
+        for i in range(12):
+            angle = math.radians(i * 30 - 90)
+            start_x = center.x() + (radius - 15) * math.cos(angle)
+            start_y = center.y() + (radius - 15) * math.sin(angle)
+            end_x = center.x() + radius * math.cos(angle)
+            end_y = center.y() + radius * math.sin(angle)
+            painter.drawLine(int(start_x), int(start_y), int(end_x), int(end_y))
+        
+        # Draw minute marks
+        painter.setPen(QPen(Qt.gray, 1))
+        for i in range(60):
+            if i % 5 != 0:  # Skip hour marks
+                angle = math.radians(i * 6 - 90)
+                start_x = center.x() + (radius - 8) * math.cos(angle)
+                start_y = center.y() + (radius - 8) * math.sin(angle)
+                end_x = center.x() + radius * math.cos(angle)
+                end_y = center.y() + radius * math.sin(angle)
+                painter.drawLine(int(start_x), int(start_y), int(end_x), int(end_y))
+        
+        # Draw hands
+        # Hour hand
+        hour_angle = math.radians((hour + minute/60) * 30 - 90)
+        hour_x = center.x() + (radius * 0.5) * math.cos(hour_angle)
+        hour_y = center.y() + (radius * 0.5) * math.sin(hour_angle)
+        painter.setPen(QPen(Qt.black, 6))
+        painter.drawLine(center, QPoint(int(hour_x), int(hour_y)))
+        
+        # Minute hand
+        minute_angle = math.radians(minute * 6 - 90)
+        minute_x = center.x() + (radius * 0.8) * math.cos(minute_angle)
+        minute_y = center.y() + (radius * 0.8) * math.sin(minute_angle)
+        painter.setPen(QPen(Qt.black, 4))
+        painter.drawLine(center, QPoint(int(minute_x), int(minute_y)))
+        
+        # Second hand
+        second_angle = math.radians(second * 6 - 90)
+        second_x = center.x() + (radius * 0.9) * math.cos(second_angle)
+        second_y = center.y() + (radius * 0.9) * math.sin(second_angle)
+        painter.setPen(QPen(Qt.red, 2))
+        painter.drawLine(center, QPoint(int(second_x), int(second_y)))
+        
+        # Center dot
+        painter.setPen(QPen(Qt.black, 8))
+        painter.drawPoint(center)
+
+def main():
+    app = QApplication(sys.argv)
+    
+    # Choose which clock to display
+    digital_clock = DigitalClock()
+    digital_clock.show()
+    
+    # Uncomment to show analog clock too
+    # analog_clock = AnalogClock()
+    # analog_clock.show()
+    
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
+```
+
+**Bullet Points to Remember:**
+• Use QTimer with timeout signal for regular updates
+• datetime.strftime() formats time strings with custom patterns
+• Update UI elements in timer callback function
+• Use monospace fonts for consistent digit alignment
+• QPainter for custom drawing in analog clocks
+
+---
+## 76. ⭐ Stopwatch Program ⏱
+**Precision Time Measurement:**
+```python
+import sys
+import time
+from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout,
+                            QLabel, QPushButton, QListWidget, QFrame)
+from PyQt5.QtCore import QTimer, Qt
+from PyQt5.QtGui import QFont
+
+class Stopwatch(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.start_time = 0
+        self.elapsed_time = 0
+        self.is_running = False
+        self.lap_times = []
+        self.lap_count = 0
+        self.initUI()
+        self.setup_timer()
+    
+    def initUI(self):
+        self.setWindowTitle('Stopwatch')
+        self.setGeometry(200, 200, 500, 600)
+        
+        # Main layout
+        main_layout = QVBoxLayout()
+        
+        # Time display
+        self.time_display = QLabel("00:00:00.00")
+        self.time_display.setAlignment(Qt.AlignCenter)
+        self.time_display.setStyleSheet("""
+            QLabel {
+                font-family: 'Courier New', monospace;
+                font-size: 48px;
+                font-weight: bold;
+                color: #ffffff;
+                background-color: #000000;
+                border: 3px solid #333333;
+                border-radius: 15px;
+                padding: 30px;
+                margin: 20px;
+            }
+        """)
+        
+        # Control buttons
+        button_layout = QHBoxLayout()
+        
+        self.start_stop_btn = QPushButton("START")
+        self.start_stop_btn.clicked.connect(self.start_stop)
+        self.start_stop_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #4CAF50;
+                border: none;
+                color: white;
+                padding: 15px 30px;
+                font-size: 18px;
+                font-weight: bold;
+                border-radius: 10px;
+                margin: 10px;
+            }
+            QPushButton:hover {
+                background-color: #45a049;
+            }
+        """)
+        
+        self.lap_reset_btn = QPushButton("LAP")
+        self.lap_reset_btn.clicked.connect(self.lap_reset)
+        self.lap_reset_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #2196F3;
+                border: none;
+                color: white;
+                padding: 15px 30px;
+                font-size: 18px;
+                font-weight: bold;
+                border-radius: 10px;
+                margin: 10px;
+            }
+            QPushButton:hover {
+                background-color: #1976D2;
+            }
+        """)
+        
+        button_layout.addWidget(self.start_stop_btn)
+        button_layout.addWidget(self.lap_reset_btn)
+        
+        # Lap times section
+        lap_frame = QFrame()
+        lap_frame.setStyleSheet("""
+            QFrame {
+                background-color: #f0f0f0;
+                border: 2px solid #cccccc;
+                border-radius: 10px;
+                margin: 10px;
+            }
+        """)
+        
+        lap_layout = QVBoxLayout()
+        
+        lap_title = QLabel("Lap Times")
+        lap_title.setAlignment(Qt.AlignCenter)
+        lap_title.setStyleSheet("""
+            QLabel {
+                font-size: 18px;
+                font-weight: bold;
+                color: #333333;
+                padding: 10px;
+                margin: 0;
+            }
+        """)
+        
+        self.lap_list = QListWidget()
+        self.lap_list.setStyleSheet("""
+            QListWidget {
+                border: none;
+                background-color: transparent;
+                font-family: 'Courier New', monospace;
+                font-size: 14px;
+                color: #333333;
+            }
+            QListWidgetItem {
+                padding: 5px;
+                border-bottom: 1px solid #dddddd;
+            }
+        """)
+        
+        lap_layout.addWidget(lap_title)
+        lap_layout.addWidget(self.lap_list)
+        lap_frame.setLayout(lap_layout)
+        
+        # Statistics section
+        stats_frame = QFrame()
+        stats_frame.setStyleSheet("""
+            QFrame {
+                background-color: #e8f4f8;
+                border: 2px solid #b3d9e8;
+                border-radius: 10px;
+                margin: 10px;
+            }
+        """)
+        
+        stats_layout = QVBoxLayout()
+        
+        stats_title = QLabel("Statistics")
+        stats_title.setAlignment(Qt.AlignCenter)
+        stats_title.setStyleSheet("""
+            QLabel {
+                font-size: 16px;
+                font-weight: bold;
+                color: #333333;
+                padding: 10px;
+            }
+        """)
+        
+        self.fastest_lap = QLabel("Fastest Lap: --")
+        self.slowest_lap = QLabel("Slowest Lap: --")
+        self.average_lap = QLabel("Average Lap: --")
+        self.total_laps = QLabel("Total Laps: 0")
+        
+        stat_style = """
+            QLabel {
+                font-family: 'Courier New', monospace;
+                font-size: 12px;
+                color: #444444;
+                padding: 3px 10px;
+            }
+        """
+        
+        self.fastest_lap.setStyleSheet(stat_style)
+        self.slowest_lap.setStyleSheet(stat_style)
+        self.average_lap.setStyleSheet(stat_style)
+        self.total_laps.setStyleSheet(stat_style)
+        
+        stats_layout.addWidget(stats_title)
+        stats_layout.addWidget(self.fastest_lap)
+        stats_layout.addWidget(self.slowest_lap)
+        stats_layout.addWidget(self.average_lap)
+        stats_layout.addWidget(self.total_laps)
+        stats_frame.setLayout(stats_layout)
+        
+        # Add all sections to main layout
+        main_layout.addWidget(self.time_display)
+        main_layout.addLayout(button_layout)
+        main_layout.addWidget(lap_frame)
+        main_layout.addWidget(stats_frame)
+        
+        # Set main window style
+        self.setStyleSheet("""
+            QWidget {
+                background-color: #f5f5f5;
+            }
+        """)
+        
+        self.setLayout(main_layout)
+    
+    def setup_timer(self):
+        # High precision timer (updates every 10ms)
+        self.timer = QTimer()
+        self.timer.timeout.connect(self.update_display)
+        self.timer.setInterval(10)  # 10 milliseconds for smooth display
+    
+    def start_stop(self):
+        if not self.is_running:
+            # Start the stopwatch
+            self.start_time = time.time() - self.elapsed_time
+            self.timer.start()
+            self.is_running = True
+            self.start_stop_btn.setText("STOP")
+            self.start_stop_btn.setStyleSheet("""
+                QPushButton {
+                    background-color: #f44336;
+                    border: none;
+                    color: white;
+                    padding: 15px 30px;
+                    font-size: 18px;
+                    font-weight: bold;
+                    border-radius: 10px;
+                    margin: 10px;
+                }
+                QPushButton:hover {
+                    background-color: #d32f2f;
+                }
+            """)
+            self.lap_reset_btn.setText("LAP")
+        else:
+            # Stop the stopwatch
+            self.timer.stop()
+            self.is_running = False
+            self.start_stop_btn.setText("START")
+            self.start_stop_btn.setStyleSheet("""
+                QPushButton {
+                    background-color: #4CAF50;
+                    border: none;
+                    color: white;
+                    padding: 15px 30px;
+                    font-size: 18px;
+                    font-weight: bold;
+                    border-radius: 10px;
+                    margin: 10px;
+                }
+                QPushButton:hover {
+                    background-color: #45a049;
+                }
+            """)
+            self.lap_reset_btn.setText("RESET")
+    
+    def lap_reset(self):
+        if self.is_running:
+            # Record lap time
+            self.lap_count += 1
+            current_time = time.time()
+            lap_time = current_time - self.start_time
+            
+            # Calculate lap split time
+            if self.lap_times:
+                split_time = lap_time - self.lap_times[-1]
+            else:
+                split_time = lap_time
+            
+            self.lap_times.append(lap_time)
+            
+            # Format and display lap time
+            total_formatted = self.format_time(lap_time)
+            split_formatted = self.format_time(split_time)
+            
+            lap_text = f"Lap {self.lap_count:2d}: {split_formatted} (Total: {total_formatted})"
+            self.lap_list.addItem(lap_text)
+            
+            # Scroll to bottom to show latest lap
+            self.lap_list.scrollToBottom()
+            
+            # Update statistics
+            self.update_statistics()
+            
+        else:
+            # Reset everything
+            self.elapsed_time = 0
+            self.start_time = 0
+            self.lap_times.clear()
+            self.lap_count = 0
+            self.lap_list.clear()
+            self.update_display()
+            self.reset_statistics()
+    
+    def update_display(self):
+        if self.is_running:
+            current_time = time.time()
+            self.elapsed_time = current_time - self.start_time
+        
+        formatted_time = self.format_time(self.elapsed_time)
+        self.time_display.setText(formatted_time)
+    
+    def format_time(self, seconds):
+        """Format time as MM:SS.CC (minutes:seconds.centiseconds)"""
+        minutes = int(seconds // 60)
+        remaining_seconds = seconds % 60
+        secs = int(remaining_seconds)
+        centiseconds = int((remaining_seconds - secs) * 100)
+        
+        return f"{minutes:02d}:{secs:02d}.{centiseconds:02d}"
+    
+    def update_statistics(self):
+        if not self.lap_times:
+            return
+        
+        # Calculate split times (time between laps)
+        split_times = []
+        for i, lap_time in enumerate(self.lap_times):
+            if i == 0:
+                split_times.append(lap_time)
+            else:
+                split_times.append(lap_time - self.lap_times[i-1])
+        
+        # Find fastest and slowest splits
+        fastest = min(split_times)
+        slowest = max(split_times)
+        average = sum(split_times) / len(split_times)
+        
+        # Update display
+        self.fastest_lap.setText(f"Fastest Lap: {self.format_time(fastest)}")
+        self.slowest_lap.setText(f"Slowest Lap: {self.format_time(slowest)}")
+        self.average_lap.setText(f"Average Lap: {self.format_time(average)}")
+        self.total_laps.setText(f"Total Laps: {len(split_times)}")
+    
+    def reset_statistics(self):
+        self.fastest_lap.setText("Fastest Lap: --")
+        self.slowest_lap.setText("Slowest Lap: --")
+        self.average_lap.setText("Average Lap: --")
+        self.total_laps.setText("Total Laps: 0")
+
+# Simple Stopwatch Version
+class SimpleStopwatch(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.start_time = 0
+        self.elapsed_time = 0
+        self.is_running = False
+        self.initUI()
+        self.setup_timer()
+    
+    def initUI(self):
+        self.setWindowTitle('Simple Stopwatch')
+        self.setGeometry(300, 300, 300, 200)
+        
+        layout = QVBoxLayout()
+        
+        # Time display
+        self.time_label = QLabel("00:00:00")
+        self.time_label.setAlignment(Qt.AlignCenter)
+        self.time_label.setFont(QFont('Arial', 24, QFont.Bold))
+        
+        # Buttons
+        button_layout = QHBoxLayout()
+        
+        self.start_btn = QPushButton("Start")
+        self.start_btn.clicked.connect(self.toggle_stopwatch)
+        
+        self.reset_btn = QPushButton("Reset")
+        self.reset_btn.clicked.connect(self.reset_stopwatch)
+        
+        button_layout.addWidget(self.start_btn)
+        button_layout.addWidget(self.reset_btn)
+        
+        layout.addWidget(self.time_label)
+        layout.addLayout(button_layout)
+        
+        self.setLayout(layout)
+    
+    def setup_timer(self):
+        self.timer = QTimer()
+        self.timer.timeout.connect(self.update_time)
+        self.timer.setInterval(100)  # Update every 100ms
+    
+    def toggle_stopwatch(self):
+        if not self.is_running:
+            self.start_time = time.time() - self.elapsed_time
+            self.timer.start()
+            self.is_running = True
+            self.start_btn.setText("Stop")
+        else:
+            self.timer.stop()
+            self.is_running = False
+            self.start_btn.setText("Start")
+    
+    def reset_stopwatch(self):
+        self.timer.stop()
+        self.elapsed_time = 0
+        self.is_running = False
+        self.start_btn.setText("Start")
+        self.update_time()
+    
+    def update_time(self):
+        if self.is_running:
+            current_time = time.time()
+            self.elapsed_time = current_time - self.start_time
+        
+        # Format as HH:MM:SS
+        hours = int(self.elapsed_time // 3600)
+        minutes = int((self.elapsed_time % 3600) // 60)
+        seconds = int(self.elapsed_time % 60)
+        
+        time_string = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+        self.time_label.setText(time_string)
+
+def main():
+    app = QApplication(sys.argv)
+    
+    # Choose which stopwatch to display
+    stopwatch = Stopwatch()  # Full-featured version
+    # stopwatch = SimpleStopwatch()  # Simple version
+    
+    stopwatch.show()
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
+```
+
+**Bullet Points to Remember:**
+• Use time.time() for high precision time measurement
+• QTimer with short intervals (10-100ms) for smooth updates
+• Track start_time and calculate elapsed_time for accuracy
+• Store lap times in list for statistics calculations
+• Use centiseconds (hundredths) for stopwatch precision
+
+---
+## 77. ⭐ Weather API App ☀️
+**Real-time Weather Information:**
+```python
+import sys
+import requests
+import json
+from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout,
+                            QLabel, QPushButton, QLineEdit, QTextEdit, 
+                            QGroupBox, QGridLayout, QMessageBox, QComboBox)
+from PyQt5.QtCore import Qt, QThread, pyqtSignal
+from PyQt5.QtGui import QFont, QPixmap
+import datetime
+
+class WeatherThread(QThread):
+    """Separate thread for API requests to prevent UI freezing"""
+    weather_data_received = pyqtSignal(dict)
+    error_occurred = pyqtSignal(str)
+    
+    def __init__(self, city, api_key):
+        super().__init__()
+        self.city = city
+        self.api_key = api_key
+    
+    def run(self):
+        try:
+            # OpenWeatherMap API endpoint
+            base_url = "http://api.openweathermap.org/data/2.5/weather"
+            params = {
+                'q': self.city,
+                'appid': self.api_key,
+                'units': 'metric'  # Celsius
+            }
+            
+            response = requests.get(base_url, params=params, timeout=10)
+            
+            if response.status_code == 200:
+                data = response.json()
+                self.weather_data_received.emit(data)
+            elif response.status_code == 404:
+                self.error_occurred.emit("City not found. Please check the spelling.")
+            elif response.status_code == 401:
+                self.error_occurred.emit("Invalid API key. Please check your API key.")
+            else:
+                self.error_occurred.emit(f"HTTP Error: {response.status_code}")
+                
+        except requests.exceptions.Timeout:
+            self.error_occurred.emit("Request timed out. Please try again.")
+        except requests.exceptions.ConnectionError:
+            self.error_occurred.emit("No internet connection. Please check your connection.")
+        except Exception as e:
+            self.error_occurred.emit(f"An error occurred: {str(e)}")
+
+class WeatherApp(QWidget):
+    def __init__(self):
+        super().__init__()
+        # You need to get a free API key from OpenWeatherMap
+        self.api_key = "your_api_key_here"  # Replace with your actual API key
+        self.initUI()
+    
+    def initUI(self):
+        self.setWindowTitle('Weather App')
+        self.setGeometry(100, 100, 600, 700)
+        
+        # Main layout
+        main_layout = QVBoxLayout()
+        
+        # Title
+        title = QLabel("🌤️ Weather App")
+        title.setAlignment(Qt.AlignCenter)
+        title.setStyleSheet("""
+            QLabel {
+                font-size: 28px;
+                font-weight: bold;
+                color: #2c3e50;
+                margin: 20px;
+                padding: 10px;
+            }
+        """)
+        
+        # Search section
+        search_group = QGroupBox("Search Location")
+        search_layout = QHBoxLayout()
+        
+        self.city_input = QLineEdit()
+        self.city_input.setPlaceholderText("Enter city name (e.g., London, New York)")
+        self.city_input.setStyleSheet("""
+            QLineEdit {
+                padding: 10px;
+                font-size: 14px;
+                border: 2px solid #bdc3c7;
+                border-radius: 8px;
+                background-color: white;
+            }
+            QLineEdit:focus {
+                border-color: #3498db;
+            }
+        """)
+        self.city_input.returnPressed.connect(self.get_weather)
+        
+        self.search_btn = QPushButton("Get Weather")
+        self.search_btn.clicked.connect(self.get_weather)
+        self.search_btn.setStyleSheet("""
+            QPushButton {
+                background-color: #3498db;
+                color: white;
+                border: none;
+                padding: 10px 20px;
+                font-size: 14px;
+                font-weight: bold;
+                border-radius: 8px;
+            }
+            QPushButton:hover {
+                background-color: #2980b9;
+            }
+            QPushButton:pressed {
+                background-color: #21618c;
+            }
+        """)
+        
+        # Units selector
+        self.units_combo = QComboBox()
+        self.units_combo.addItems(["Celsius", "Fahrenheit"])
+        self.units_combo.setStyleSheet("""
+            QComboBox {
+                padding: 8px;
+                font-size: 14px;
+                border: 2px solid #bdc3c7;
+                border-radius: 8px;
+                background-color: white;
+            }
+        """)
+        
+        search_layout.addWidget(self.city_input)
+        search_layout.addWidget(self.units_combo)
+        search_layout.addWidget(self.search_btn)
+        search_group.setLayout(search_layout)
+        
+        # Current weather display
+        self.weather_group = QGroupBox("Current Weather")
+        self.weather_layout = QGridLayout()
+        
+        # Initialize weather display widgets
+        self.setup_weather_display()
+        
+        self.weather_group.setLayout(self.weather_layout)
+        self.weather_group.hide()  # Hidden until data is loaded
+        
+        # Status/Loading label
+        self.status_label = QLabel("Enter a city name and click 'Get Weather'")
+        self.status_label.setAlignment(Qt.AlignCenter)
+        self.status_label.setStyleSheet("""
+            QLabel {
+                color: #7f8c8d;
+                font-size: 14px;
+                padding: 20px;
+            }
+        """)
+        
+        # Recent searches
+        recent_group = QGroupBox("Recent Searches")
+        recent_layout = QVBoxLayout()
+        
+        self.recent_cities = []
+        self.recent_buttons_layout = QHBoxLayout()
+        recent_layout.addLayout(self.recent_buttons_layout)
+        recent_group.setLayout(recent_layout)
+        
+        # Add all sections
+        main_layout.addWidget(title)
+        main_layout.addWidget(search_group)
+        main_layout.addWidget(self.weather_group)
+        main_layout.addWidget(recent_group)
+        main_layout.addWidget(self.status_label)
+        main_layout.addStretch()
+        
+        # Set main styling
+        self.setStyleSheet("""
+            QWidget {
+                background-color: #ecf0f1;
+                font-family: 'Segoe UI', Arial, sans-serif;
+            }
+            QGroupBox {
+                font-weight: bold;
+                border: 2px solid #bdc3c7;
+                border-radius: 10px;
+                margin-top: 1ex;
+                padding-top: 10px;
+                background-color: white;
+            }
+            QGroupBox::title {
+                subcontrol-origin: margin;
+                left: 10px;
+                padding: 0 5px 0 5px;
+            }
+        """)
+        
+        self.setLayout(main_layout)
+    
+    def setup_weather_display(self):
+        """Setup the weather information display"""
+        # City and country
+        self.city_label = QLabel()
+        self.city_label.setStyleSheet("""
+            QLabel {
+                font-size: 24px;
+                font-weight: bold;
+                color: #2c3e50;
+            }
+        """)
+        
+        # Temperature
+        self.temp_label = QLabel()
+        self.temp_label.setStyleSheet("""
+            QLabel {
+                font-size: 48px;
+                font-weight: bold;
+                color: #e74c3c;
+            }
+        """)
+        
+        # Weather description
+        self.desc_label = QLabel()
+        self.desc_label.setStyleSheet("""
+            QLabel {
+                font-size: 18px;
+                color: #34495e;
+                font-style: italic;
+            }
+        """)
+        
+        # Weather details
+        self.feels_like_label = QLabel()
+        self.humidity_label = QLabel()
+        self.pressure_label = QLabel()
+        self.wind_label = QLabel()
+        self.visibility_label = QLabel()
+        self.sunrise_label = QLabel()
+        self.sunset_label = QLabel()
+        
+        detail_style = """
+            QLabel {
+                font-size: 14px;
+                color: #2c3e50;
+                padding: 5px;
+                border: 1px solid #ecf0f1;
+                border-radius: 5px;
+                background-color: #f8f9fa;
+            }
+        """
+        
+        for label in [self.feels_like_label, self.humidity_label, self.pressure_label,
+                     self.wind_label, self.visibility_label, self.sunrise_label, self.sunset_label]:
+            label.setStyleSheet(detail_style)
+        
+        # Layout weather information
+        self.weather_layout.addWidget(self.city_label, 0, 0, 1, 2)
+        self.weather_layout.addWidget(self.temp_label, 1, 0)
+        self.weather_layout.addWidget(self.desc_label, 1, 1)
+        
+        self.weather_layout.addWidget(self.feels_like_label, 2, 0)
+        self.weather_layout.addWidget(self.humidity_label, 2, 1)
+        self.weather_layout.addWidget(self.pressure_label, 3, 0)
+        self.weather_layout.addWidget(self.wind_label, 3, 1)
+        self.weather_layout.addWidget(self.visibility_label, 4, 0)
+        self.weather_layout.addWidget(self.sunrise_label, 4, 1)
+        self.weather_layout.addWidget(self.sunset_label, 5, 0, 1, 2)
+    
+    def get_weather(self):
+        city = self.city_input.text().strip()
+        
+        if not city:
+            QMessageBox.warning(self, "Input Error", "Please enter a city name.")
+            return
+        
+        if self.api_key == "your_api_key_here":
+            QMessageBox.warning(self, "API Key Error", 
+                              "Please set up your OpenWeatherMap API key in the code.")
+            return
+        
+        # Show loading status
+        self.status_label.setText("Loading weather data...")
+        self.search_btn.setEnabled(False)
+        self.weather_group.hide()
+        
+        # Start weather thread
+        self.weather_thread = WeatherThread(city, self.api_key)
+        self.weather_thread.weather_data_received.connect(self.display_weather)
+        self.weather_thread.error_occurred.connect(self.show_error)
+        self.weather_thread.start()
+    
+    def display_weather(self, data):
+        """Display weather data in the UI"""
+        try:
+            # Extract data
+            city_name = data['name']
+            country = data['sys']['country']
+            temp = data['main']['temp']
+            feels_like = data['main']['feels_like']
+            humidity = data['main']['humidity']
+            pressure = data['main']['pressure']
+            description = data['weather'][0]['description'].title()
+            wind_speed = data['wind']['speed']
+            visibility = data.get('visibility', 0) / 1000  # Convert to km
+            
+            # Convert temperature if needed
+            if self.units_combo.currentText() == "Fahrenheit":
+                temp = (temp * 9/5) + 32
+                feels_like = (feels_like * 9/5) + 32
+                temp_unit = "°F"
+            else:
+                temp_unit = "°C"
+            
+            # Sunrise and sunset
+            sunrise = datetime.datetime.fromtimestamp(data['sys']['sunrise'])
+            sunset = datetime.datetime.fromtimestamp(data['sys']['sunset'])
+            
+            # Update labels
+            self.city_label.setText(f"{city_name}, {country}")
+            self.temp_label.setText(f"{temp:.1f}{temp_unit}")
+            self.desc_label.setText(description)
+            self.feels_like_label.setText(f"Feels like: {feels_like:.1f}{temp_unit}")
+            self.humidity_label.setText(f"Humidity: {humidity}%")
+            self.pressure_label.setText(f"Pressure: {pressure} hPa")
+            self.wind_label.setText(f"Wind: {wind_speed} m/s")
+            self.visibility_label.setText(f"Visibility: {visibility:.1f} km")
+            self.sunrise_label.setText(f"Sunrise: {sunrise.strftime('%H:%M')}")
+            self.sunset_label.setText(f"Sunset: {sunset.strftime('%H:%M')}")
+            
+            # Show weather group and hide status
+            self.weather_group.show()
+            self.status_label.hide()
+            
+            # Add to recent searches
+            self.add_to_recent(city_name)
+            
+        except KeyError as e:
+            self.show_error(f"Data parsing error: Missing {e}")
+        except Exception as e:
+            self.show_error(f"Display error: {str(e)}")
+        
+        finally:
+            self.search_btn.setEnabled(True)
+    
+    def show_error(self, error_message):
+        """Show error message"""
+        self.status_label.setText(f"Error: {error_message}")
+        self.status_label.show()
+        self.weather_group.hide()
+        self.search_btn.setEnabled(True)
+    
+    def add_to_recent(self, city):
+        """Add city to recent searches"""
+        if city not in self.recent_cities:
+            self.recent_cities.insert(0, city)
+            if len(self.recent_cities) > 5:  # Keep only 5 recent cities
+                self.recent_cities.pop()
+            
+            self.update_recent_buttons()
+    
+    def update_recent_buttons(self):
+        """Update recent search buttons"""
+        # Clear existing buttons
+        for i in reversed(range(self.recent_buttons_layout.count())):
+            self.recent_buttons_layout.itemAt(i).widget().setParent(None)
+        
+        # Add new buttons
+        for city in self.recent_cities:
+            btn = QPushButton(city)
+            btn.clicked.connect(lambda checked, c=city: self.search_recent_city(c))
+            btn.setStyleSheet("""
+                QPushButton {
+                    background-color: #95a5a6;
+                    color: white;
+                    border: none;
+                    padding: 8px 15px;
+                    font-size: 12px;
+                    border-radius: 15px;
+                    margin: 2px;
+                }
+                QPushButton:hover {
+                    background-color: #7f8c8d;
+                }
+            """)
+            self.recent_buttons_layout.addWidget(btn)
+    
+    def search_recent_city(self, city):
+        """Search weather for a recent city"""
+        self.city_input.setText(city)
+        self.get_weather()
+
+def main():
+    app = QApplication(sys.argv)
+    
+    # Note: You need to get a free API key from OpenWeatherMap
+    # 1. Go to https://openweathermap.org/api
+    # 2. Sign up for a free account
+    # 3. Get your API key
+    # 4. Replace "your_api_key_here" in the code
+    
+    weather_app = WeatherApp()
+    weather_app.show()
+    
+    # Show instructions if API key not set
+    if weather_app.api_key == "your_api_key_here":
+        QMessageBox.information(weather_app, "Setup Required",
+                              "To use this weather app:\n\n"
+                              "1. Go to https://openweathermap.org/api\n"
+                              "2. Sign up for a free account\n"
+                              "3. Get your API key\n"
+                              "4. Replace 'your_api_key_here' in the code with your actual API key")
+    
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
+```
+
+**Bullet Points to Remember:**
+• Use QThread for API requests to prevent UI freezing
+• Handle different HTTP status codes and exceptions gracefully
+• Store API keys securely (environment variables in production)
+• Implement timeout for network requests to avoid hanging
+• Use pyqtSignal for thread communication with main UI
+• Cache recent searches to improve user experience
