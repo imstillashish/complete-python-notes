@@ -10,83 +10,83 @@
 
 # Table of Contents
 
-1. [Python Tutorial for Beginners 🐍](#1-python-tutorial-for-beginners-🐍)  
-2. [Variables ❎](#2-variables-❎)  
-3. [Type Casting 💱](#3-type-casting-💱)  
-4. [User Input ⌨️](#4-user-input-⌨️)  
-5. [⭐ Madlibs Game 📖](#5-⭐-madlibs-game-📖)  
-6. [Arithmetic & Math 📐](#6-arithmetic--math-📐)  
-7. [If Statements 🤔](#7-if-statements-🤔)  
-8. [⭐ Calculator Program 🧮](#8-⭐-calculator-program-🧮)  
-9. [⭐ Weight Conversion Program 🏋️](#9-⭐-weight-conversion-program-🏋️)  
-10. [⭐ Temperature Conversion Program 🌡️](#10-⭐-temperature-conversion-program-🌡️)  
-11. [Logical Operators 🌦️](#11-logical-operators-🌦️)  
-12. [Conditional Expressions ❓](#12-conditional-expressions-❓)  
-13. [String Methods 〰️](#13-string-methods-〰️)  
-14. [String Indexing ✂️](#14-string-indexing-✂️)  
-15. [Format Specifiers 💬](#15-format-specifiers-💬)  
-16. [While Loops ♾️](#16-while-loops-♾️)  
-17. [⭐ Compound Interest Calculator 💵](#17-⭐-compound-interest-calculator-💵)  
-18. [For Loops 🔁](#18-for-loops-🔁)  
-19. [⭐ Countdown Timer Program ⌛](#19-⭐-countdown-timer-program-⌛)  
-20. [Nested Loops ➿](#20-nested-loops-➿)  
-21. [Lists, Sets, and Tuples 🍎](#21-lists-sets-and-tuples-🍎)  
-22. [⭐ Shopping Cart Program 🛒](#22-⭐-shopping-cart-program-🛒)  
-23. [2D Collections ⬜](#23-2d-collections-⬜)  
-24. [⭐ Quiz Game 💯](#24-⭐-quiz-game-💯)  
-25. [Dictionaries 📙](#25-dictionaries-📙)  
-26. [⭐ Concession Stand Program 🍿](#26-⭐-concession-stand-program-🍿)  
-27. [Random Numbers 🎲](#27-random-numbers-🎲)  
-28. [⭐ Number Guessing Game 🔢](#28-⭐-number-guessing-game-🔢)  
-29. [⭐ Rock, Paper, Scissors Game 🗿](#29-⭐-rock-paper-scissors-game-🗿)  
-30. [⭐ Dice Roller Program ⚂](#30-⭐-dice-roller-program-⚂)  
-31. [Functions 📞](#31-functions-📞)  
-32. [Default Arguments 👍](#32-default-arguments-👍)  
-33. [Keyword Arguments 🗝️](#33-keyword-arguments-🗝️)  
-34. [*args & **kwargs 📦](#34-args--kwargs-📦)  
-35. [Iterables 🔂](#35-iterables-🔂)  
-36. [Membership Operators 🔎](#36-membership-operators-🔎)  
-37. [List Comprehensions 📃](#37-list-comprehensions-📃)  
-38. [Match-Case Statements 📆](#38-match-case-statements-📆)  
-39. [Modules 📨](#39-modules-📨)  
-40. [Scope Resolution 🔬](#40-scope-resolution-🔬)  
-41. [if __name__ == '__main__': 📥](#41-if-__name__--__main___-📥)  
-42. [⭐ Banking Program 💰](#42-⭐-banking-program-💰)  
-43. [⭐ Slot Machine 🎰](#43-⭐-slot-machine-🎰)  
-44. [⭐ Encryption Program 🔐](#44-⭐-encryption-program-🔐)  
-45. [⭐ Hangman Game 🕺](#45-⭐-hangman-game-🕺)  
-46. [Python Object-Oriented Programming 🚗](#46-python-object-oriented-programming-🚗)  
-47. [Class Variables 🎓](#47-class-variables-🎓)  
-48. [Inheritance 👨‍👦‍👦](#48-inheritance-👨‍👦‍👦)  
-49. [Multiple Inheritance 🐟](#49-multiple-inheritance-🐟)  
-50. [super() 🔴](#50-super-🔴)  
-51. [Polymorphism 🎭](#51-polymorphism-🎭)  
-52. [Duck Typing 🦆](#52-duck-typing-🦆)  
-53. [Static Methods ⚡](#53-static-methods-⚡)  
-54. [Class Methods 🏫](#54-class-methods-🏫)  
-55. [Magic Methods 🌟](#55-magic-methods-🌟)  
-56. [@property ⚙️](#56-property-⚙️)  
-57. [Decorators 🎊](#57-decorators-🎊)  
-58. [Exception Handling 🚦](#58-exception-handling-🚦)  
-59. [File Detection 🕵️‍♂️](#59-file-detection-🕵️‍♂️)  
-60. [Writing Files ✍](#60-writing-files-✍)  
-61. [Reading Files 🔍](#61-reading-files-🔍)  
-62. [Dates & Times 📅](#62-dates--times-📅)  
-63. [⭐ Alarm Clock ⏰](#63-⭐-alarm-clock-⏰)  
-64. [Multithreading 🧵](#64-multithreading-🧵)  
-65. [Request API Data ↩️](#65-request-api-data-↩️)  
-66. [PyQt5 GUI Intro 🖥️](#66-pyqt5-gui-intro-🖥️)  
-67. [PyQt5 Labels 🏷️](#67-pyqt5-labels-🏷️)  
-68. [PyQt5 Images 📷](#68-pyqt5-images-📷)  
-69. [PyQt5 Layout Managers 🧲](#69-pyqt5-layout-managers-🧲)  
-70. [PyQt5 Buttons 🛎️](#70-pyqt5-buttons-🛎️)  
-71. [PyQt5 Checkboxes ✅](#71-pyqt5-checkboxes-✅)
-72. [PyQt5 Radio Buttons 🔘](#72-pyqt5-radio-buttons-🔘)
-73. [PyQt5 Spin Boxes 🔢](#73-pyqt5-spin-boxes-🔢)
-74. [PyQt5 Sliders 🔀](#74-pyqt5-sliders-🔀)
-75. [PyQt5 ComboBoxes 🔽](#75-pyqt5-comboboxes-🔽)
-76. [PyQt5 Lists 🔤](#76-pyqt5-lists-🔤)
-77. [PyQt5 Tables 🔍](#77-pyqt5-tables-🔍)
+1. [Python Tutorial for Beginners 🐍](#1-python-tutorial-for-beginners-)  
+2. [Variables ❎](#2-variables-)  
+3. [Type Casting 💱](#3-type-casting-)  
+4. [User Input ⌨️](#4-user-input-%EF%B8%8F)  
+5. [⭐ Madlibs Game 📖](#5--madlibs-game-)  
+6. [Arithmetic & Math 📐](#6-arithmetic--math-)  
+7. [If Statements 🤔](#7-if-statements-)  
+8. [⭐ Calculator Program 🧮](#8--calculator-program-)  
+9. [⭐ Weight Conversion Program 🏋️](#9--weight-conversion-program-%EF%B8%8F)  
+10. [⭐ Temperature Conversion Program 🌡️](#10--temperature-conversion-program-%EF%B8%8F)  
+11. [Logical Operators 🌦️](#11-logical-operators-%EF%B8%8F)  
+12. [Conditional Expressions ❓](#12-conditional-expressions-%EF%B8%8F)  
+13. [String Methods 〰️](#13-string-methods-%EF%B8%8F)  
+14. [String Indexing ✂️](#14-string-indexing-%EF%B8%8F)  
+15. [Format Specifiers 💬](#15-format-specifiers-)  
+16. [While Loops ♾️](#16-while-loops-%EF%B8%8F)  
+17. [⭐ Compound Interest Calculator 💵](#17--compound-interest-calculator-)  
+18. [For Loops 🔁](#18-for-loops-)  
+19. [⭐ Countdown Timer Program ⌛](#19--countdown-timer-program-)  
+20. [Nested Loops ➿](#20-nested-loops-)  
+21. [Lists, Sets, and Tuples 🍎](#21-lists-sets-and-tuples-)  
+22. [⭐ Shopping Cart Program 🛒](#22--shopping-cart-program-)  
+23. [2D Collections ⬜](#23-2d-collections-)  
+24. [⭐ Quiz Game 💯](#24--quiz-game-)  
+25. [Dictionaries 📙](#25-dictionaries-)  
+26. [⭐ Concession Stand Program 🍿](#26--concession-stand-program-)  
+27. [Random Numbers 🎲](#27-random-numbers-)  
+28. [⭐ Number Guessing Game 🔢](#28--number-guessing-game-)  
+29. [⭐ Rock, Paper, Scissors Game 🗿](#29--rock-paper-scissors-game-)  
+30. [⭐ Dice Roller Program ⚂](#30--dice-roller-program-)  
+31. [Functions 📞](#31-functions-)  
+32. [Default Arguments 👍](#32-default-arguments-)  
+33. [Keyword Arguments 🗝️](#33-keyword-arguments-%EF%B8%8F)  
+34. [*args & **kwargs 📦](#34-args--kwargs-)  
+35. [Iterables 🔂](#35-iterables-)  
+36. [Membership Operators 🔎](#36-membership-operators-)  
+37. [List Comprehensions 📃](#37-list-comprehensions-)  
+38. [Match-Case Statements 📆](#38-match-case-statements-)  
+39. [Modules 📨](#39-modules-)  
+40. [Scope Resolution 🔬](#40-scope-resolution-)  
+41. [if __name__ == '__main__': 📥](#41-if-name--main-)  
+42. [⭐ Banking Program 💰](#42--banking-program-)  
+43. [⭐ Slot Machine 🎰](#43--slot-machine-)  
+44. [⭐ Encryption Program 🔐](#44--encryption-program-)  
+45. [⭐ Hangman Game 🕺](#45--hangman-game-)  
+46. [Python Object-Oriented Programming 🚗](#46-python-object-oriented-programming-)  
+47. [Class Variables 🎓](#47-class-variables-)  
+48. [Inheritance 👨‍👦‍👦](#48-inheritance-)  
+49. [Multiple Inheritance 🐟](#49-multiple-inheritance-)  
+50. [super() 🔴](#50-super-)  
+51. [Polymorphism 🎭](#51-polymorphism-)  
+52. [Duck Typing 🦆](#52-duck-typing-)  
+53. [Static Methods ⚡](#53-static-methods-)  
+54. [Class Methods 🏫](#54-class-methods-)  
+55. [Magic Methods 🌟](#55-magic-methods-)  
+56. [@property ⚙️](#56-property-%EF%B8%8F)  
+57. [Decorators 🎊](#57-decorators-)  
+58. [Exception Handling 🚦](#58-exception-handling-)  
+59. [File Detection 🕵️‍♂️](#59-file-detection-%EF%B8%8F%EF%B8%8F)  
+60. [Writing Files ✍](#60-writing-files-)  
+61. [Reading Files 🔍](#61-reading-files-)  
+62. [Dates & Times 📅](#62-dates--times-)  
+63. [⭐ Alarm Clock ⏰](#63--alarm-clock-)  
+64. [Multithreading 🧵](#64-multithreading-)  
+65. [Request API Data ↩️](#65-request-api-data-%EF%B8%8F)  
+66. [PyQt5 GUI Intro 🖥️](#66-pyqt5-gui-intro-%EF%B8%8F)  
+67. [PyQt5 Labels 🏷️](#67-pyqt5-labels-%EF%B8%8F)  
+68. [PyQt5 Images 📷](#68-pyqt5-images-)  
+69. [PyQt5 Layout Managers 🧲](#69-pyqt5-layout-managers-)  
+70. [PyQt5 Buttons 🛎️](#70-pyqt5-buttons-%EF%B8%8F)  
+71. [PyQt5 Checkboxes ✅](#71-pyqt5-checkboxes-)
+72. [PyQt5 Radio Buttons 🔘](#72-pyqt5-radio-buttons-)
+73. [PyQt5 Spin Boxes 🔢](#73-pyqt5-spin-boxes-)
+74. [PyQt5 Sliders 🔀](#74-pyqt5-sliders-)
+75. [PyQt5 ComboBoxes 🔽](#75-pyqt5-comboboxes-)
+76. [PyQt5 Lists 🔤](#76-pyqt5-lists-)
+77. [PyQt5 Tables 🔍](#77--weather-api-app-%EF%B8%8F)
 
 ---
 ## 1. Python Tutorial for Beginners 🐍
@@ -3992,11 +3992,11 @@ def on_counter_click(self):
 ```
 
 **Bullet Points to Remember:**
-• QPushButton for standard buttons, QRadioButton for single selection
-• QCheckBox for multiple selections, use QButtonGroup for grouping
-• Connect signals with .clicked.connect() for buttons
-• Use .stateChanged.connect() for checkboxes and radio buttons
-• Style buttons with setStyleSheet() for custom appearance
+- QPushButton for standard buttons, QRadioButton for single selection
+- QCheckBox for multiple selections, use QButtonGroup for grouping
+- Connect signals with .clicked.connect() for buttons
+- Use .stateChanged.connect() for checkboxes and radio buttons
+- Style buttons with setStyleSheet() for custom appearance
 
 ---
 ## 71. PyQt5 Checkboxes ✅
@@ -4181,11 +4181,11 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• QCheckBox allows multiple selections unlike radio buttons
-• Use .isChecked() to check state, .setChecked() to set state
-• setTristate(True) enables three states: unchecked, partially checked, checked
-• Qt.Checked, Qt.Unchecked, Qt.PartiallyChecked are the state constants
-• Connect stateChanged signal to respond to checkbox changes
+- QCheckBox allows multiple selections unlike radio buttons
+- Use .isChecked() to check state, .setChecked() to set state
+- setTristate(True) enables three states: unchecked, partially checked, checked
+- Qt.Checked, Qt.Unchecked, Qt.PartiallyChecked are the state constants
+- Connect stateChanged signal to respond to checkbox changes
 
 ---
 ## 72. PyQt5 Radio Buttons 🔘
@@ -4419,11 +4419,11 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• QRadioButton allows only one selection per group
-• Use QButtonGroup to manage multiple radio button groups
-• Radio buttons are automatically exclusive within the same parent
-• Use .toggled signal and check if 'checked' is True to avoid double events
-• .checkedButton() returns the selected button in a QButtonGroup
+- QRadioButton allows only one selection per group
+- Use QButtonGroup to manage multiple radio button groups
+- Radio buttons are automatically exclusive within the same parent
+- Use .toggled signal and check if 'checked' is True to avoid double events
+- .checkedButton() returns the selected button in a QButtonGroup
 
 ---
 ## 73. PyQt5 Line Edits 💬
@@ -4678,11 +4678,11 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• QLineEdit for single-line text input, use setPlaceholderText() for hints
-• setEchoMode() for password fields (QLineEdit.Password)
-• Use validators (QIntValidator, QDoubleValidator, QRegExpValidator) for input validation
-• QCompleter provides auto-completion functionality
-• setMaxLength() limits input characters, setReadOnly(True) prevents editing
+- QLineEdit for single-line text input, use setPlaceholderText() for hints
+- setEchoMode() for password fields (QLineEdit.Password)
+- Use validators (QIntValidator, QDoubleValidator, QRegExpValidator) for input validation
+- QCompleter provides auto-completion functionality
+- setMaxLength() limits input characters, setReadOnly(True) prevents editing
 
 ---
 ## 74. PyQt5 CSS Styles 🎨
@@ -5108,11 +5108,11 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• Use setStyleSheet() to apply CSS-like styling to PyQt5 widgets
-• Pseudo-selectors like :hover, :pressed, :focus add interactivity
-• Use qlineargradient() for gradient backgrounds
-• Border-radius creates rounded corners, padding adds internal spacing
-• Combine multiple selectors for complex styling themes
+- Use setStyleSheet() to apply CSS-like styling to PyQt5 widgets
+- Pseudo-selectors like :hover, :pressed, :focus add interactivity
+- Use qlineargradient() for gradient backgrounds
+- Border-radius creates rounded corners, padding adds internal spacing
+- Combine multiple selectors for complex styling themes
 
 ---
 ## 75. ⭐ Digital Clock Program 🕒
@@ -5414,11 +5414,11 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• Use QTimer with timeout signal for regular updates
-• datetime.strftime() formats time strings with custom patterns
-• Update UI elements in timer callback function
-• Use monospace fonts for consistent digit alignment
-• QPainter for custom drawing in analog clocks
+- Use QTimer with timeout signal for regular updates
+- datetime.strftime() formats time strings with custom patterns
+- Update UI elements in timer callback function
+- Use monospace fonts for consistent digit alignment
+- QPainter for custom drawing in analog clocks
 
 ---
 ## 76. ⭐ Stopwatch Program ⏱
@@ -5841,11 +5841,11 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• Use time.time() for high precision time measurement
-• QTimer with short intervals (10-100ms) for smooth updates
-• Track start_time and calculate elapsed_time for accuracy
-• Store lap times in list for statistics calculations
-• Use centiseconds (hundredths) for stopwatch precision
+- Use time.time() for high precision time measurement
+- QTimer with short intervals (10-100ms) for smooth updates
+- Track start_time and calculate elapsed_time for accuracy
+- Store lap times in list for statistics calculations
+- Use centiseconds (hundredths) for stopwatch precision
 
 ---
 ## 77. ⭐ Weather API App ☀️
@@ -6266,9 +6266,9 @@ if __name__ == '__main__':
 ```
 
 **Bullet Points to Remember:**
-• Use QThread for API requests to prevent UI freezing
-• Handle different HTTP status codes and exceptions gracefully
-• Store API keys securely (environment variables in production)
-• Implement timeout for network requests to avoid hanging
-• Use pyqtSignal for thread communication with main UI
-• Cache recent searches to improve user experience
+- Use QThread for API requests to prevent UI freezing
+- Handle different HTTP status codes and exceptions gracefully
+- Store API keys securely (environment variables in production)
+- Implement timeout for network requests to avoid hanging
+- Use pyqtSignal for thread communication with main UI
+- Cache recent searches to improve user experience
